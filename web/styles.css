@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+:root {
+    --primary: #c2410c; /* Warm Terracotta */
+    --bg-color: #ffffff; /* Pure White */
+    --text-main: #1c1917; /* Ink Black / Dark Warm Gray */
+    --text-muted: #78716c; /* Warm Gray */
+    --font-serif: 'Lora', Georgia, serif; /* For Greek words & translations */
+    --font-sans: 'Lato', 'Segoe UI', Roboto, sans-serif; /* For UI & transliterations */
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: var(--font-sans);
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    overflow: hidden; /* Prevents scrolling, acts like a slide */
+}
+
+/* Slide Container */
+.slide-container {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    cursor: pointer;
+}
+
+/* Front Slide (Just the Word) */
+.slide-front {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background: var(--bg-color);
+    transition: opacity 0.4s ease;
+}
+
+.massive-word {
+    font-family: var(--font-serif);
+    font-size: 10vw; 
+    font-weight: 700;
+    color: var(--text-main); /* Using Ink Black for the front word for a classic look */
+    margin: 0;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.hint {
+    position: absolute;
+    bottom: 40px;
+    font-size: 1.1rem;
+    font-family: var(--font-sans);
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+    opacity: 0.6;
+}
+
+/* Reveal Slide (Split Screen) */
+.slide-reveal {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+/* Image Pane - Now pure white, preserving square ratio */
+.image-pane {
+    flex: 1;
+    background-color: var(--bg-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-right: 1px solid #f5f5f4; /* Very subtle separation line */
+}
+
+.image-pane img {
+    max-width: 80%;
+    max-height: 80%;
+    object-fit: contain; /* Prevents cropping, maintains 1:1 square aspect ratio */
+    box-shadow: none; /* Relies on pure white background to blend seamlessly */
+}
+
+.image-fallback {
+    max-width: 80%;
+    padding: 2rem;
+    text-align: center;
+    font-family: var(--font-serif);
+    font-size: clamp(3.5rem, 6vw, 7rem);
+    font-weight: 700;
+    line-height: 1.1;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    color: #ffffff;
+    background: var(--primary);
+    border: 10px solid var(--primary);
+    border-radius: 14px;
+}
+
+.content-pane {
+    flex: 1;
+    padding: 4rem 6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: var(--bg-color);
+    overflow-y: auto;
+}
+
+.reveal-word {
+    font-family: var(--font-serif);
+    font-size: 4.5rem;
+    font-weight: 700;
+    color: var(--primary); /* Terracotta accent */
+    margin: 0 0 5px 0;
+}
+
+.transliteration {
+    font-family: var(--font-sans);
+    font-size: 1.8rem;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-bottom: 2.5rem;
+    letter-spacing: 0.02em;
+}
+
+.translation {
+    font-family: var(--font-serif);
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--text-main);
+    margin: 0 0 2.5rem 0;
+}
+
+.tags-container {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 3.5rem;
+}
+
+/* Refined, watercolor-inspired tags */
+.tag {
+    background-color: #fef9c3; /* Soft mustard wash */
+    color: #854d0e; /* Darker mustard text */
+    border: 1px solid #e7e5e4; /* Thin ink-like border */
+    padding: 6px 14px;
+    border-radius: 4px; /* Sharper edges */
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: var(--font-sans);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.example-block {
+    margin-bottom: 2rem;
+    border-left: 2px solid var(--primary); /* Thinner, elegant line */
+    padding-left: 20px;
+}
+
+.example-greek {
+    font-family: var(--font-serif);
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: var(--text-main);
+    margin-bottom: 6px;
+}
+
+.example-eng {
+    font-family: var(--font-sans);
+    font-size: 1.3rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+}
+
+/* Highlighted words in examples */
+mark {
+    background-color: transparent;
+    color: var(--primary);
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+.audio-link {
+    transition: color 0.18s ease, text-decoration-color 0.18s ease, opacity 0.18s ease;
+}
+
+.audio-link:hover {
+    color: var(--primary);
+    text-decoration: underline;
+    text-decoration-color: var(--primary);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.14em;
+}
+
+#revealWord.audio-link:hover {
+    opacity: 0.85;
+}
+
+/* Controls Overlay */
+.controls {
+    position: absolute;
+    bottom: 40px;
+    right: 40px;
+    z-index: 10;
+    display: flex;
+    gap: 16px;
+}
+
+button {
+    background: var(--bg-color);
+    border: 1px solid var(--text-main); /* Ink black border */
+    color: var(--text-main);
+    padding: 10px 24px;
+    font-size: 1.1rem;
+    font-family: var(--font-sans);
+    font-weight: 700;
+    border-radius: 4px; /* Sharper edges */
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    background: #f5f5f4; /* Subtle warm off-white hover */
+    color: var(--primary);
+    border-color: var(--primary);
+}
+
+/* State Toggling */
+.is-revealed .slide-front {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.is-revealed .slide-reveal {
+    opacity: 1;
+    pointer-events: auto;
+    z-index: 3;
+}
+
+/* Word ID - small and unobtrusive */
+.word-id {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    font-family: var(--font-sans);
+    font-weight: 400;
+    opacity: 0.7;
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+}

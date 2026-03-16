@@ -1,0 +1,3689 @@
+[
+  {
+    "id": 1,
+    "greek_word": "ήλιος",
+    "article": "ο",
+    "translation": [
+      "sun"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "ílios",
+    "tags": [
+      "travel",
+      "weather"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>ήλιος</mark> λάμπει σήμερα.",
+        "translation": "The sun is shining today."
+      },
+      {
+        "greek": "Μας αρέσει ο ζεστός <mark>ήλιος</mark>.",
+        "translation": "We like the warm sun."
+      },
+      {
+        "greek": "Προστατευτείτε από τον <mark>ήλιο</mark>.",
+        "translation": "Protect yourselves from the sun."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 2,
+    "greek_word": "αγοράζω",
+    "article": null,
+    "translation": [
+      "I buy",
+      "to buy"
+    ],
+    "part_of_speech": "verb",
+    "gender": null,
+    "transliteration": "agorázo",
+    "tags": [
+      "shopping",
+      "travel"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω να <mark>αγοράσω</mark> γάλα.",
+        "translation": "I want to buy milk."
+      },
+      {
+        "greek": "<mark>Αγόρασες</mark> τα εισιτήρια;",
+        "translation": "Did you buy the tickets?"
+      },
+      {
+        "greek": "<mark>Αγοράζουμε</mark> φρούτα από την αγορά.",
+        "translation": "We are buying fruits from the market."
+      }
+    ],
+    "notes": "Regular type A verb.",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 3,
+    "greek_word": "μήλο",
+    "article": "το",
+    "translation": [
+      "apple"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "mílo",
+    "tags": [
+      "fruits",
+      "food",
+      "shopping"
+    ],
+    "examples": [
+      {
+        "greek": "Έφαγα ένα κόκκινο <mark>μήλο</mark>.",
+        "translation": "I ate a red apple."
+      },
+      {
+        "greek": "Μου αρέσουν τα πράσινα <mark>μήλα</mark>.",
+        "translation": "I like green apples."
+      },
+      {
+        "greek": "Θέλεις ένα <mark>μήλο</mark>;",
+        "translation": "Do you want an apple?"
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 4,
+    "greek_word": "μεγάλος",
+    "article": null,
+    "translation": [
+      "big",
+      "large"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "megálos",
+    "tags": [
+      "description"
+    ],
+    "examples": [
+      {
+        "greek": "Αυτό είναι ένα <mark>μεγάλο</mark> σπίτι.",
+        "translation": "This is a big house."
+      },
+      {
+        "greek": "Έχει <mark>μεγάλο</mark> σκύλο.",
+        "translation": "He has a large dog."
+      },
+      {
+        "greek": "Η πόλη είναι πολύ <mark>μεγάλη</mark>.",
+        "translation": "The city is very big."
+      }
+    ],
+    "notes": "Changes endings (μεγάλος/μεγάλη/μεγάλο) for gender.",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 5,
+    "greek_word": "εγώ",
+    "article": null,
+    "translation": [
+      "I"
+    ],
+    "part_of_speech": "pronoun",
+    "gender": null,
+    "transliteration": "egó",
+    "tags": [
+      "grammar",
+      "basic"
+    ],
+    "examples": [
+      {
+        "greek": "<mark>Εγώ</mark> είμαι ο Γιάννης.",
+        "translation": "I am Yannis."
+      },
+      {
+        "greek": "<mark>Εγώ</mark> δεν το έκανα.",
+        "translation": "I didn't do it."
+      },
+      {
+        "greek": "Ποιος το είπε; <mark>Εγώ</mark>!",
+        "translation": "Who said it? I (did)!"
+      }
+    ],
+    "notes": "Subject pronoun.",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 6,
+    "greek_word": "βιβλίο",
+    "article": "το",
+    "translation": [
+      "book"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "vivlío",
+    "tags": [
+      "objects",
+      "study"
+    ],
+    "examples": [
+      {
+        "greek": "Διαβάζω ένα ενδιαφέρον <mark>βιβλίο</mark>.",
+        "translation": "I am reading an interesting book."
+      },
+      {
+        "greek": "Πού είναι το <mark>βιβλίο</mark> μου?",
+        "translation": "Where is my book?"
+      },
+      {
+        "greek": "Αγόρασα τρία <mark>βιβλία</mark>.",
+        "translation": "I bought three books."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 7,
+    "greek_word": "τρέχω",
+    "article": null,
+    "translation": [
+      "I run",
+      "to run"
+    ],
+    "part_of_speech": "verb",
+    "gender": null,
+    "transliteration": "trécho",
+    "tags": [
+      "travel",
+      "sports"
+    ],
+    "examples": [
+      {
+        "greek": "Μου αρέσει να <mark>τρέχω</mark> στο πάρκο.",
+        "translation": "I like running in the park."
+      },
+      {
+        "greek": "Γιατί <mark>τρέχεις</mark>;",
+        "translation": "Why are you running?"
+      },
+      {
+        "greek": "<mark>Τρέχαμε</mark> για να προλάβουμε το λεωφορείο.",
+        "translation": "We were running to catch the bus."
+      }
+    ],
+    "notes": "Regular type A verb.",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 8,
+    "greek_word": "θάλασσα",
+    "article": "η",
+    "translation": [
+      "sea"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "thálassa",
+    "tags": [
+      "travel",
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>θάλασσα</mark> είναι μπλε.",
+        "translation": "The sea is blue."
+      },
+      {
+        "greek": "Πάμε στη <mark>θάλασσα</mark>!",
+        "translation": "Let's go to the sea!"
+      },
+      {
+        "greek": "Κολυμπάω στη <mark>θάλασσα</mark> κάθε μέρα.",
+        "translation": "I swim in the sea every day."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 9,
+    "greek_word": "ψάρι",
+    "article": "το",
+    "translation": [
+      "fish"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "psári",
+    "tags": [
+      "animals",
+      "food"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>ψάρι</mark> κολυμπάει στη θάλασσα.",
+        "translation": "The fish swims in the sea."
+      },
+      {
+        "greek": "Μου αρέσει να τρώω ψητό <mark>ψάρι</mark>.",
+        "translation": "I like to eat grilled fish."
+      },
+      {
+        "greek": "Έπιασαν ένα πολύ μεγάλο <mark>ψάρι</mark>.",
+        "translation": "They caught a very big fish."
+      }
+    ],
+    "notes": "The plural form is τα ψάρια (ta psária).",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 10,
+    "greek_word": "αυτός",
+    "article": null,
+    "translation": [
+      "he",
+      "it",
+      "this"
+    ],
+    "part_of_speech": "pronoun",
+    "gender": "masculine",
+    "transliteration": "aftós",
+    "tags": [
+      "grammar",
+      "basic"
+    ],
+    "examples": [
+      {
+        "greek": "<mark>Αυτός</mark> είναι ο αδερφός μου.",
+        "translation": "He is my brother."
+      },
+      {
+        "greek": "<mark>Αυτό</mark> είναι το σπίτι.",
+        "translation": "This is the house."
+      },
+      {
+        "greek": "Μίλησα με <mark>αυτόν</mark>.",
+        "translation": "I spoke with him."
+      }
+    ],
+    "notes": "Changes form for gender and case (αυτός/αυτή/αυτό).",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 11,
+    "greek_word": "νερό",
+    "article": "το",
+    "translation": [
+      "water"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "neró",
+    "tags": [
+      "food",
+      "basic"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω λίγο <mark>νερό</mark>, παρακαλώ.",
+        "translation": "I want some water, please."
+      },
+      {
+        "greek": "Το <mark>νερό</mark> είναι κρύο.",
+        "translation": "The water is cold."
+      },
+      {
+        "greek": "Πίνω πολύ <mark>νερό</mark>.",
+        "translation": "I drink a lot of water."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 12,
+    "greek_word": "γράφω",
+    "article": null,
+    "translation": [
+      "I write",
+      "to write"
+    ],
+    "part_of_speech": "verb",
+    "gender": null,
+    "transliteration": "gráfo",
+    "tags": [
+      "study",
+      "basic"
+    ],
+    "examples": [
+      {
+        "greek": "<mark>Γράφω</mark> ένα γράμμα.",
+        "translation": "I am writing a letter."
+      },
+      {
+        "greek": "Σας <mark>γράφω</mark> για να σας ενημερώσω.",
+        "translation": "I am writing to inform you."
+      },
+      {
+        "greek": "<mark>Έγραψε</mark> ένα βιβλίο.",
+        "translation": "He wrote a book."
+      }
+    ],
+    "notes": "Regular type A verb.",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 13,
+    "greek_word": "πόλη",
+    "article": "η",
+    "translation": [
+      "city"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "póli",
+    "tags": [
+      "travel",
+      "basic"
+    ],
+    "examples": [
+      {
+        "greek": "Η Αθήνα είναι μια μεγάλη <mark>πόλη</mark>.",
+        "translation": "Athens is a large city."
+      },
+      {
+        "greek": "Πηγαίνω στην <mark>πόλη</mark>.",
+        "translation": "I am going to the city."
+      },
+      {
+        "greek": "Μένω στην <mark>πόλη</mark>.",
+        "translation": "I live in the city."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 14,
+    "greek_word": "μικρός",
+    "article": null,
+    "translation": [
+      "small",
+      "little"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "mikrós",
+    "tags": [
+      "description"
+    ],
+    "examples": [
+      {
+        "greek": "Αυτό είναι ένα <mark>μικρό</mark> αυτοκίνητο.",
+        "translation": "This is a small car."
+      },
+      {
+        "greek": "Έχει έναν <mark>μικρό</mark> σκύλο.",
+        "translation": "He has a little dog."
+      },
+      {
+        "greek": "Η πόλη είναι πολύ <mark>μικρή</mark>.",
+        "translation": "The town is very small."
+      }
+    ],
+    "notes": "Changes endings (μικρός/μικρή/μικρό) for gender.",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 15,
+    "greek_word": "εσύ",
+    "article": null,
+    "translation": [
+      "you"
+    ],
+    "part_of_speech": "pronoun",
+    "gender": null,
+    "transliteration": "esý",
+    "tags": [
+      "grammar",
+      "basic"
+    ],
+    "examples": [
+      {
+        "greek": "<mark>Εσύ</mark> είσαι η Μαρία.",
+        "translation": "You are Maria."
+      },
+      {
+        "greek": "<mark>Εσύ</mark> δεν το ξέρεις.",
+        "translation": "You don't know it."
+      },
+      {
+        "greek": "Ποιος το είπε; <mark>Εσύ</mark>!",
+        "translation": "Who said it? You (did)!"
+      }
+    ],
+    "notes": "Subject pronoun (singular, informal).",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 16,
+    "greek_word": "γάτα",
+    "article": "η",
+    "translation": [
+      "cat"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "gáta",
+    "tags": [
+      "animals",
+      "basic"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>γάτα</mark> μου είναι μαύρη.",
+        "translation": "My cat is black."
+      },
+      {
+        "greek": "Βλέπω μια <mark>γάτα</mark> στον κήπο.",
+        "translation": "I see a cat in the garden."
+      },
+      {
+        "greek": "Μου αρέσουν οι <mark>γάτες</mark>.",
+        "translation": "I like cats."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 17,
+    "greek_word": "μιλάω",
+    "article": null,
+    "translation": [
+      "I speak",
+      "to talk"
+    ],
+    "part_of_speech": "verb",
+    "gender": null,
+    "transliteration": "miláo",
+    "tags": [
+      "basic",
+      "travel"
+    ],
+    "examples": [
+      {
+        "greek": "<mark>Μιλάω</mark> ελληνικά.",
+        "translation": "I speak Greek."
+      },
+      {
+        "greek": "Γιατί δεν μου <mark>μιλάς</mark>;",
+        "translation": "Why aren't you talking to me?"
+      },
+      {
+        "greek": "Θέλουμε να <mark>μιλήσουμε</mark> με τον διευθυντή.",
+        "translation": "We want to speak with the manager."
+      }
+    ],
+    "notes": "Type B verb (contracted).",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 18,
+    "greek_word": "δέντρο",
+    "article": "το",
+    "translation": [
+      "tree"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "déntro",
+    "tags": [
+      "nature",
+      "basic"
+    ],
+    "examples": [
+      {
+        "greek": "Υπάρχει ένα μεγάλο <mark>δέντρο</mark> στον κήπο.",
+        "translation": "There is a big tree in the garden."
+      },
+      {
+        "greek": "Κάθομαι κάτω από το <mark>δέντρο</mark>.",
+        "translation": "I am sitting under the tree."
+      },
+      {
+        "greek": "Τα <mark>δέντρα</mark> είναι πράσινα το καλοκαίρι.",
+        "translation": "The trees are green in the summer."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 19,
+    "greek_word": "όμορφος",
+    "article": null,
+    "translation": [
+      "beautiful",
+      "pretty"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "ómorfos",
+    "tags": [
+      "description"
+    ],
+    "examples": [
+      {
+        "greek": "Αυτή είναι μια <mark>όμορφη</mark> πόλη.",
+        "translation": "This is a beautiful city."
+      },
+      {
+        "greek": "Είναι πολύ <mark>όμορφο</mark> παιδί.",
+        "translation": "He is a very pretty child."
+      },
+      {
+        "greek": "Μου αρέσει η <mark>όμορφη</mark> μουσική.",
+        "translation": "I like beautiful music."
+      }
+    ],
+    "notes": "Changes endings (όμορφος/όμορφη/όμορφο) for gender.",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 20,
+    "greek_word": "αλλά",
+    "article": null,
+    "translation": [
+      "but"
+    ],
+    "part_of_speech": null,
+    "gender": null,
+    "transliteration": "allá",
+    "tags": [
+      "grammar",
+      "basic"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω να πάω, <mark>αλλά</mark> δεν μπορώ.",
+        "translation": "I want to go, but I can't."
+      },
+      {
+        "greek": "Είναι ακριβό, <mark>αλλά</mark> καλό.",
+        "translation": "It is expensive, but good."
+      },
+      {
+        "greek": "Δεν είναι μπλε, <mark>αλλά</mark> πράσινο.",
+        "translation": "It is not blue, but green."
+      }
+    ],
+    "notes": "Conjunction.",
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 21,
+    "greek_word": "σκύλος",
+    "article": "ο",
+    "translation": [
+      "dog"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "skýlos",
+    "tags": [
+      "nature",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>σκύλος</mark> μου είναι πολύ φιλικός.",
+        "translation": "My dog is very friendly."
+      },
+      {
+        "greek": "Είδαμε έναν μεγάλο <mark>σκύλο</mark> στο πάρκο.",
+        "translation": "We saw a big dog in the park."
+      },
+      {
+        "greek": "Πρέπει να ταΐσεις τον <mark>σκύλο</mark>.",
+        "translation": "You have to feed the dog."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-09T12:30:37Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 22,
+    "greek_word": "καρέκλα",
+    "article": "η",
+    "translation": [
+      "chair"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "karékla",
+    "tags": [
+      "home",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>καρέκλα</mark> είναι πολύ άνετη.",
+        "translation": "The chair is very comfortable."
+      },
+      {
+        "greek": "Κάθισε σε αυτή την <mark>καρέκλα</mark>.",
+        "translation": "Sit on this chair."
+      },
+      {
+        "greek": "Χρειαζόμαστε τέσσερις <mark>καρέκλες</mark> για το τραπέζι.",
+        "translation": "We need four chairs for the table."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 23,
+    "greek_word": "σπίτι",
+    "article": "το",
+    "translation": [
+      "house",
+      "home"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "spíti",
+    "tags": [
+      "home",
+      "places"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>σπίτι</mark> μου είναι κοντά στη θάλασσα.",
+        "translation": "My house is near the sea."
+      },
+      {
+        "greek": "Πάμε στο <mark>σπίτι</mark> τώρα.",
+        "translation": "Let's go home now."
+      },
+      {
+        "greek": "Αγόρασαν ένα μεγάλο <mark>σπίτι</mark>.",
+        "translation": "They bought a big house."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 24,
+    "greek_word": "βουνό",
+    "article": "το",
+    "translation": [
+      "mountain"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "vounó",
+    "tags": [
+      "nature",
+      "places"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>βουνό</mark> είναι καλυμμένο με χιόνι.",
+        "translation": "The mountain is covered with snow."
+      },
+      {
+        "greek": "Μας αρέσει να περπατάμε στα <mark>βουνά</mark>.",
+        "translation": "We like to walk in the mountains."
+      },
+      {
+        "greek": "Η θέα από το <mark>βουνό</mark> είναι φανταστική.",
+        "translation": "The view from the mountain is fantastic."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 25,
+    "greek_word": "λάδι",
+    "article": "το",
+    "translation": [
+      "oil",
+      "olive oil"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "ládi",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Βάλε λίγο <mark>λάδι</mark> στη σαλάτα.",
+        "translation": "Put some oil in the salad."
+      },
+      {
+        "greek": "Το ελληνικό ελαιό<mark>λαδο</mark> είναι εξαιρετικό.",
+        "translation": "Greek olive oil is excellent."
+      },
+      {
+        "greek": "Χρειάζομαι <mark>λάδι</mark> για το τηγάνισμα.",
+        "translation": "I need oil for frying."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 26,
+    "greek_word": "ρόδι",
+    "article": "το",
+    "translation": [
+      "pomegranate"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "ródi",
+    "tags": [
+      "food",
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Έφαγα ένα γλυκό <mark>ρόδι</mark>.",
+        "translation": "I ate a sweet pomegranate."
+      },
+      {
+        "greek": "Σπάμε ένα <mark>ρόδι</mark> την Πρωτοχρονιά.",
+        "translation": "We break a pomegranate on New Year's Day."
+      },
+      {
+        "greek": "Ο χυμός από <mark>ρόδι</mark> είναι πολύ υγιεινός.",
+        "translation": "Pomegranate juice is very healthy."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 27,
+    "greek_word": "αγόρι",
+    "article": "το",
+    "translation": [
+      "boy"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "agóri",
+    "tags": [
+      "people",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>αγόρι</mark> παίζει ποδόσφαιρο.",
+        "translation": "The boy is playing football."
+      },
+      {
+        "greek": "Είναι ένα έξυπνο <mark>αγόρι</mark>.",
+        "translation": "He is a smart boy."
+      },
+      {
+        "greek": "Είδα δύο <mark>αγόρια</mark> στο πάρκο.",
+        "translation": "I saw two boys in the park."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 28,
+    "greek_word": "άνδρας",
+    "article": "ο",
+    "translation": [
+      "man",
+      "husband"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "ándras",
+    "tags": [
+      "people",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>άνδρας</mark> διαβάζει την εφημερίδα.",
+        "translation": "The man is reading the newspaper."
+      },
+      {
+        "greek": "Αυτός ο <mark>άνδρας</mark> είναι ο δάσκαλός μου.",
+        "translation": "This man is my teacher."
+      },
+      {
+        "greek": "Ο <mark>άνδρας</mark> της δουλεύει στην τράπεζα.",
+        "translation": "Her husband works at the bank."
+      }
+    ],
+    "notes": "Also commonly spelled as 'άντρας'.",
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 29,
+    "greek_word": "οικογένεια",
+    "article": "η",
+    "translation": [
+      "family"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "oikogéneia",
+    "tags": [
+      "people",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Αγαπάω πολύ την <mark>οικογένειά</mark> μου.",
+        "translation": "I love my family very much."
+      },
+      {
+        "greek": "Έχουν μια μεγάλη <mark>οικογένεια</mark>.",
+        "translation": "They have a big family."
+      },
+      {
+        "greek": "Η <mark>οικογένεια</mark> τρώει μαζι κάθε Κυριακή.",
+        "translation": "The family eats together every Sunday."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 30,
+    "greek_word": "κορίτσι",
+    "article": "το",
+    "translation": [
+      "girl"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "korítsi",
+    "tags": [
+      "people",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>κορίτσι</mark> φοράει ένα κόκκινο φόρεμα.",
+        "translation": "The girl is wearing a red dress."
+      },
+      {
+        "greek": "Εκείνο το <mark>κορίτσι</mark> είναι η αδερφή μου.",
+        "translation": "That girl is my sister."
+      },
+      {
+        "greek": "Τα <mark>κορίτσια</mark> διαβάζουν βιβλία.",
+        "translation": "The girls are reading books."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 31,
+    "greek_word": "γιαγιά",
+    "article": "η",
+    "translation": [
+      "grandma",
+      "grandmother"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "giagiá",
+    "tags": [
+      "people",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>γιαγιά</mark> μου φτιάχνει ωραία πίτα.",
+        "translation": "My grandma makes a nice pie."
+      },
+      {
+        "greek": "Πάμε να δούμε τη <mark>γιαγιά</mark> αύριο.",
+        "translation": "We are going to see grandma tomorrow."
+      },
+      {
+        "greek": "Αυτή είναι μια φωτογραφία της <mark>γιαγιάς</mark> μου.",
+        "translation": "This is a photo of my grandmother."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 32,
+    "greek_word": "γυναίκα",
+    "article": "η",
+    "translation": [
+      "woman",
+      "wife"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "gynaíka",
+    "tags": [
+      "people",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>γυναίκα</mark> οδηγεί το αυτοκίνητο.",
+        "translation": "The woman is driving the car."
+      },
+      {
+        "greek": "Μίλησα με τη <mark>γυναίκα</mark> που δουλεύει εκεί.",
+        "translation": "I spoke with the woman who works there."
+      },
+      {
+        "greek": "Η <mark>γυναίκα</mark> του είναι γιατρός.",
+        "translation": "His wife is a doctor."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 33,
+    "greek_word": "γιος",
+    "article": "ο",
+    "translation": [
+      "son"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "gios",
+    "tags": [
+      "people",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>γιος</mark> μου πάει στο σχολείο.",
+        "translation": "My son goes to school."
+      },
+      {
+        "greek": "Είμαι πολύ περήφανος για τον <mark>γιο</mark> μου.",
+        "translation": "I am very proud of my son."
+      },
+      {
+        "greek": "Έχουν δύο <mark>γιους</mark>.",
+        "translation": "They have two sons."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 34,
+    "greek_word": "πατέρας",
+    "article": "ο",
+    "translation": [
+      "father"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "patéras",
+    "tags": [
+      "people",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>πατέρας</mark> μου δουλεύει σκληρά.",
+        "translation": "My father works hard."
+      },
+      {
+        "greek": "Θέλω να μιλήσω στον <mark>πατέρα</mark> σου.",
+        "translation": "I want to speak to your father."
+      },
+      {
+        "greek": "Οι <mark>πατέρες</mark> παίζουν με τα παιδιά τους.",
+        "translation": "The fathers are playing with their children."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 35,
+    "greek_word": "κόρη",
+    "article": "η",
+    "translation": [
+      "daughter"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "kóri",
+    "tags": [
+      "people",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>κόρη</mark> της σπουδάζει νομική.",
+        "translation": "Her daughter is studying law."
+      },
+      {
+        "greek": "Αγόρασα ένα δώρο για την <mark>κόρη</mark> μου.",
+        "translation": "I bought a gift for my daughter."
+      },
+      {
+        "greek": "Έχουν μία <mark>κόρη</mark> και έναν γιο.",
+        "translation": "They have one daughter and one son."
+      }
+    ],
+    "notes": null,
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 36,
+    "greek_word": "μητέρα",
+    "article": "η",
+    "translation": [
+      "mother"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "mitéra",
+    "tags": [
+      "people",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>μητέρα</mark> μου είναι δασκάλα.",
+        "translation": "My mother is a teacher."
+      },
+      {
+        "greek": "Αγόρασα λουλούδια για τη <mark>μητέρα</mark> μου.",
+        "translation": "I bought flowers for my mother."
+      },
+      {
+        "greek": "Οι <mark>μητέρες</mark> αγαπούν τα παιδιά τους.",
+        "translation": "Mothers love their children."
+      }
+    ],
+    "notes": "Often informally referred to as 'μαμά' (mom).",
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 37,
+    "greek_word": "διαβάζω",
+    "article": null,
+    "translation": [
+      "I read",
+      "to read"
+    ],
+    "part_of_speech": "verb",
+    "gender": null,
+    "transliteration": "diavázo",
+    "tags": [
+      "routine",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Εγώ <mark>διαβάζω</mark> ένα βιβλίο κάθε βράδυ.",
+        "translation": "I read a book every night."
+      },
+      {
+        "greek": "Τι <mark>διαβάζεις</mark> τώρα;",
+        "translation": "What are you reading now?"
+      },
+      {
+        "greek": "Μου αρέσει να <mark>διαβάζω</mark> στην παραλία.",
+        "translation": "I like to read on the beach."
+      }
+    ],
+    "notes": "Regular type A verb.",
+    "created": null,
+    "statistics": null
+  },
+  {
+    "id": 38,
+    "greek_word": "παραλία",
+    "article": "η",
+    "translation": [
+      "beach",
+      "coast"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "paralía",
+    "tags": [
+      "travel",
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Πάμε στην <mark>παραλία</mark> για μπάνιο;",
+        "translation": "Shall we go to the beach for a swim?"
+      },
+      {
+        "greek": "Η <mark>παραλία</mark> ήταν γεμάτη κόσμο το καλοκαίρι.",
+        "translation": "The beach was full of people in the summer."
+      },
+      {
+        "greek": "Μου αρέσει να περπατάω στην <mark>παραλία</mark> το πρωί.",
+        "translation": "I like to walk on the beach in the morning."
+      }
+    ],
+    "notes": "Regular feminine noun.",
+    "created": "2026-03-14T11:16:49.805444Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 39,
+    "greek_word": "ναι",
+    "article": null,
+    "translation": [
+      "yes"
+    ],
+    "part_of_speech": "adverb",
+    "gender": null,
+    "transliteration": "nai",
+    "tags": [
+      "basics",
+      "questions"
+    ],
+    "examples": [
+      {
+        "greek": "<mark>Ναι</mark>, θέλω έναν καφέ, παρακαλώ.",
+        "translation": "Yes, I want a coffee, please."
+      },
+      {
+        "greek": "Είπες <mark>ναι</mark> στην πρότασή μου;",
+        "translation": "Did you say yes to my proposal?"
+      },
+      {
+        "greek": "<mark>Ναι</mark>, είμαι από την Ελλάδα.",
+        "translation": "Yes, I am from Greece."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-14T12:10:04.877428Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 40,
+    "greek_word": "όχι",
+    "article": null,
+    "translation": [
+      "no"
+    ],
+    "part_of_speech": "adverb",
+    "gender": null,
+    "transliteration": "óchi",
+    "tags": [
+      "basics",
+      "questions"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλεις καφέ; <mark>Όχι</mark>, ευχαριστώ.",
+        "translation": "Do you want coffee? No, thank you."
+      },
+      {
+        "greek": "Είναι αλήθεια αυτό; <mark>Όχι</mark>, δεν είναι.",
+        "translation": "Is this true? No, it's not."
+      },
+      {
+        "greek": "Μπορείς να έρθεις; <mark>Όχι</mark>, δεν μπορώ σήμερα.",
+        "translation": "Can you come? No, I can't today."
+      }
+    ],
+    "notes": "Used to express negation.",
+    "created": "2026-03-14T12:10:04.877440Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 41,
+    "greek_word": "λάθος",
+    "article": "το",
+    "translation": [
+      "mistake",
+      "error"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "láthos",
+    "tags": [
+      "basics",
+      "routine"
+    ],
+    "examples": [
+      {
+        "greek": "Έκανες ένα μεγάλο <mark>λάθος</mark>.",
+        "translation": "You made a big mistake."
+      },
+      {
+        "greek": "Αυτό είναι ένα συχνό <mark>λάθος</mark> που κάνουν οι μαθητές.",
+        "translation": "This is a common mistake students make."
+      },
+      {
+        "greek": "Δεν πειράζει, το <mark>λάθος</mark> είναι ανθρώπινο.",
+        "translation": "It's okay, making a mistake is human."
+      }
+    ],
+    "notes": "Common neuter noun.",
+    "created": "2026-03-14T12:10:04.877445Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 42,
+    "greek_word": "ευχαριστώ",
+    "article": null,
+    "translation": [
+      "I thank",
+      "to thank"
+    ],
+    "part_of_speech": "verb",
+    "gender": null,
+    "transliteration": "efcharistó",
+    "tags": [
+      "basics",
+      "feelings"
+    ],
+    "examples": [
+      {
+        "greek": "Σας <mark>ευχαριστώ</mark> πολύ για τη βοήθειά σας.",
+        "translation": "Thank you very much for your help."
+      },
+      {
+        "greek": "<mark>Ευχαριστώ</mark> για το δώρο, είναι υπέροχο!",
+        "translation": "Thank you for the gift, it's wonderful!"
+      },
+      {
+        "greek": "Θέλω να σας <mark>ευχαριστήσω</mark> όλους για την παρουσία σας.",
+        "translation": "I want to thank you all for your presence."
+      }
+    ],
+    "notes": "Regular verb, often used impersonally as 'ευχαριστώ' (thank you).",
+    "created": "2026-03-14T12:10:04.877448Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 43,
+    "greek_word": "παρακαλώ",
+    "article": null,
+    "translation": [
+      "please",
+      "you're welcome"
+    ],
+    "part_of_speech": "verb",
+    "gender": null,
+    "transliteration": "parakaló",
+    "tags": [
+      "basics",
+      "routine"
+    ],
+    "examples": [
+      {
+        "greek": "Μπορείτε να με βοηθήσετε, <mark>παρακαλώ</mark>;",
+        "translation": "Can you help me, please?"
+      },
+      {
+        "greek": "Ευχαριστώ πολύ! - <mark>Παρακαλώ</mark>!",
+        "translation": "Thank you very much! - You're welcome!"
+      },
+      {
+        "greek": "Τι <mark>παρακαλώ</mark>; Πώς μπορώ να σας εξυπηρετήσω;",
+        "translation": "What can I do for you? How can I help you?"
+      }
+    ],
+    "notes": "Literally means 'I beg' or 'I request'. Commonly used as 'please' or 'you're welcome'.",
+    "created": "2026-03-14T12:10:04.877450Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 44,
+    "greek_word": "ψωμί",
+    "article": "το",
+    "translation": [
+      "bread"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "psomí",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω ένα κομμάτι <mark>ψωμί</mark>.",
+        "translation": "I want a piece of bread."
+      },
+      {
+        "greek": "Το <mark>ψωμί</mark> είναι φρέσκο σήμερα.",
+        "translation": "The bread is fresh today."
+      },
+      {
+        "greek": "Αγόρασα <mark>ψωμί</mark> από τον φούρνο.",
+        "translation": "I bought bread from the bakery."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-14T12:10:04.877453Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 45,
+    "greek_word": "φίλος",
+    "article": "ο",
+    "translation": [
+      "friend"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "fílos",
+    "tags": [
+      "people",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Έχω έναν καλό <mark>φίλο</mark> στην Αθήνα.",
+        "translation": "I have a good friend in Athens."
+      },
+      {
+        "greek": "Είναι ο καλύτερός μου <mark>φίλος</mark>.",
+        "translation": "He is my best friend."
+      },
+      {
+        "greek": "Θα πάω βόλτα με τον <mark>φίλο</mark> μου.",
+        "translation": "I will go for a walk with my friend."
+      }
+    ],
+    "notes": "Common masculine noun.",
+    "created": "2026-03-14T12:10:04.877455Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 46,
+    "greek_word": "καλός",
+    "article": null,
+    "translation": [
+      "good",
+      "nice"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "kalós",
+    "tags": [
+      "basics",
+      "feelings"
+    ],
+    "examples": [
+      {
+        "greek": "Είναι ένας <mark>καλός</mark> φίλος.",
+        "translation": "He is a good friend."
+      },
+      {
+        "greek": "Έχει μια <mark>καλή</mark> καρδιά.",
+        "translation": "She has a good heart."
+      },
+      {
+        "greek": "Αυτό είναι ένα <mark>καλό</mark> βιβλίο.",
+        "translation": "This is a good book."
+      }
+    ],
+    "notes": "Adjective, declinable (καλός, καλή, καλό).",
+    "created": "2026-03-14T12:10:04.877458Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 47,
+    "greek_word": "ημέρα",
+    "article": "η",
+    "translation": [
+      "day"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "iméra",
+    "tags": [
+      "time",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Καλημέρα! Έχετε μια υπέροχη <mark>ημέρα</mark>.",
+        "translation": "Good morning! Have a wonderful day."
+      },
+      {
+        "greek": "Η σημερινή <mark>ημέρα</mark> είναι ηλιόλουστη.",
+        "translation": "Today's day is sunny."
+      },
+      {
+        "greek": "Πόσες <mark>ημέρες</mark> θα μείνετε στην Ελλάδα;",
+        "translation": "How many days will you stay in Greece?"
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-14T12:10:04.877460Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 48,
+    "greek_word": "νύχτα",
+    "article": "η",
+    "translation": [
+      "night"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "nýchta",
+    "tags": [
+      "time",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Καλη<mark>νύχτα</mark> σε όλους!",
+        "translation": "Good night everyone!"
+      },
+      {
+        "greek": "Η <mark>νύχτα</mark> ήταν ήσυχη και γεμάτη αστέρια.",
+        "translation": "The night was quiet and full of stars."
+      },
+      {
+        "greek": "Μου αρέσει να διαβάζω ένα βιβλίο τη <mark>νύχτα</mark>.",
+        "translation": "I like to read a book at night."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-14T12:10:04.877463Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 49,
+    "greek_word": "ποταμός",
+    "article": "ο",
+    "translation": [
+      "river"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "potamós",
+    "tags": [
+      "nature",
+      "places"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>ποταμός</mark> είναι πολύ μακρύς.",
+        "translation": "The river is very long."
+      },
+      {
+        "greek": "Κολυμπήσαμε στον <mark>ποταμό</mark> χθες.",
+        "translation": "We swam in the river yesterday."
+      },
+      {
+        "greek": "Η πόλη βρίσκεται δίπλα σε έναν <mark>ποταμό</mark>.",
+        "translation": "The city is located next to a river."
+      }
+    ],
+    "notes": "Common masculine noun.",
+    "created": "2026-03-14T14:58:29.108423Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 50,
+    "greek_word": "αφηρημένος",
+    "article": null,
+    "translation": [
+      "abstract"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "afiriménos",
+    "tags": [
+      "basics",
+      "grammar"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>αφηρημένος</mark> πίνακας έχει πολλά χρώματα.",
+        "translation": "The abstract painting has many colors."
+      },
+      {
+        "greek": "Η <mark>αφηρημένη</mark> ιδέα είναι δύσκολο να εξηγηθεί.",
+        "translation": "The abstract idea is difficult to explain."
+      },
+      {
+        "greek": "Το <mark>αφηρημένο</mark> σχέδιο είναι πολύ μοντέρνο.",
+        "translation": "The abstract design is very modern."
+      }
+    ],
+    "notes": "Adjective, declinable.",
+    "created": "2026-03-14T16:16:47.001747Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 51,
+    "greek_word": "ευτυχία",
+    "article": "η",
+    "translation": [
+      "happiness",
+      "luck"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "eftychía",
+    "tags": [
+      "feelings",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>ευτυχία</mark> είναι το πιο σημαντικό πράγμα στη ζωή.",
+        "translation": "Happiness is the most important thing in life."
+      },
+      {
+        "greek": "Σου εύχομαι πολλή <mark>ευτυχία</mark>!",
+        "translation": "I wish you much happiness!"
+      },
+      {
+        "greek": "Βρήκε την <mark>ευτυχία</mark> στην απλότητα.",
+        "translation": "He found happiness in simplicity."
+      }
+    ],
+    "notes": "Abstract noun.",
+    "created": "2026-03-15T15:05:27.211528Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 52,
+    "greek_word": "αγάπη",
+    "article": "η",
+    "translation": [
+      "love"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "agápi",
+    "tags": [
+      "feelings",
+      "people"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>αγάπη</mark> είναι το πιο δυνατό συναίσθημα.",
+        "translation": "Love is the strongest feeling."
+      },
+      {
+        "greek": "Έχω μεγάλη <mark>αγάπη</mark> για την οικογένειά μου.",
+        "translation": "I have great love for my family."
+      },
+      {
+        "greek": "Η <mark>αγάπη</mark> για τη μάθηση είναι σημαντική.",
+        "translation": "The love for learning is important."
+      }
+    ],
+    "notes": "Feminine noun.",
+    "created": "2026-03-15T18:24:25.920236Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 53,
+    "greek_word": "δράμα",
+    "article": "το",
+    "translation": [
+      "drama",
+      "play"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "dráma",
+    "tags": [
+      "entertainment",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>δράμα</mark> ήταν πολύ συγκινητικό.",
+        "translation": "The drama was very moving."
+      },
+      {
+        "greek": "Θα πάμε να δούμε ένα καινούργιο <mark>δράμα</mark> στο θέατρο.",
+        "translation": "We will go to see a new play at the theater."
+      },
+      {
+        "greek": "Η ζωή της είναι γεμάτη <mark>δράμα</mark>.",
+        "translation": "Her life is full of drama."
+      }
+    ],
+    "notes": "Neuter noun, ending in -μα.",
+    "created": "2026-03-15T18:24:25.920252Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 54,
+    "greek_word": "αυτοκίνητο",
+    "article": "το",
+    "translation": [
+      "car",
+      "automobile"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "aftokínito",
+    "tags": [
+      "travel",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Έχω ένα καινούργιο <mark>αυτοκίνητο</mark>.",
+        "translation": "I have a new car."
+      },
+      {
+        "greek": "Το <mark>αυτοκίνητο</mark> είναι παρκαρισμένο έξω.",
+        "translation": "The car is parked outside."
+      },
+      {
+        "greek": "Θέλουμε να αγοράσουμε ένα ηλεκτρικό <mark>αυτοκίνητο</mark>.",
+        "translation": "We want to buy an electric car."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-15T18:42:10.758745Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 55,
+    "greek_word": "ποδήλατο",
+    "article": "το",
+    "translation": [
+      "bicycle",
+      "bike"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "podílatο",
+    "tags": [
+      "travel",
+      "routine"
+    ],
+    "examples": [
+      {
+        "greek": "Έχω ένα καινούργιο <mark>ποδήλατο</mark>.",
+        "translation": "I have a new bicycle."
+      },
+      {
+        "greek": "Μου αρέσει να κάνω <mark>ποδήλατο</mark> στην εξοχή.",
+        "translation": "I like to ride a bike in the countryside."
+      },
+      {
+        "greek": "Το <mark>ποδήλατο</mark> είναι ένα οικολογικό μέσο μεταφοράς.",
+        "translation": "The bicycle is an ecological means of transport."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-15T18:42:10.758776Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 56,
+    "greek_word": "πρωινό",
+    "article": "το",
+    "translation": [
+      "breakfast",
+      "morning"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "proïnó",
+    "tags": [
+      "food",
+      "routine"
+    ],
+    "examples": [
+      {
+        "greek": "Τρώω <mark>πρωινό</mark> κάθε μέρα.",
+        "translation": "I eat breakfast every day."
+      },
+      {
+        "greek": "Το <mark>πρωινό</mark> είναι το πιο σημαντικό γεύμα.",
+        "translation": "Breakfast is the most important meal."
+      },
+      {
+        "greek": "Θα πάμε για καφέ το <mark>πρωινό</mark>.",
+        "translation": "We will go for coffee in the morning."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-15T20:43:49.775172Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 57,
+    "greek_word": "δείπνο",
+    "article": "το",
+    "translation": [
+      "dinner",
+      "supper"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "deípno",
+    "tags": [
+      "food",
+      "routine"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>δείπνο</mark> είναι έτοιμο, ελάτε να φάτε.",
+        "translation": "Dinner is ready, come and eat."
+      },
+      {
+        "greek": "Θα πάμε για <mark>δείπνο</mark> σε ένα ωραίο εστιατόριο απόψε.",
+        "translation": "We will go for dinner at a nice restaurant tonight."
+      },
+      {
+        "greek": "Είχαμε ένα υπέροχο <mark>δείπνο</mark> με φίλους χθες το βράδυ.",
+        "translation": "We had a wonderful dinner with friends last night."
+      }
+    ],
+    "notes": "Common neuter noun.",
+    "created": "2026-03-15T21:01:14.094039Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 58,
+    "greek_word": "γεύμα",
+    "article": "το",
+    "translation": [
+      "meal",
+      "lunch"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "gévma",
+    "tags": [
+      "food",
+      "routine"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>γεύμα</mark> ήταν πολύ νόστιμο.",
+        "translation": "The meal was very delicious."
+      },
+      {
+        "greek": "Τρώμε το <mark>γεύμα</mark> μας στις δύο το μεσημέρι.",
+        "translation": "We eat our lunch at two in the afternoon."
+      },
+      {
+        "greek": "Ετοιμάζω ένα ελαφρύ <mark>γεύμα</mark> για το βράδυ.",
+        "translation": "I am preparing a light meal for the evening."
+      }
+    ],
+    "notes": "Common neuter noun.",
+    "created": "2026-03-15T21:06:53.765741Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 59,
+    "greek_word": "νόστιμος",
+    "article": null,
+    "translation": [
+      "tasty",
+      "delicious"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "nóstimos",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Ο καφές είναι πολύ <mark>νόστιμος</mark>.",
+        "translation": "The coffee is very tasty."
+      },
+      {
+        "greek": "Η σαλάτα είναι <mark>νόστιμη</mark>.",
+        "translation": "The salad is delicious."
+      },
+      {
+        "greek": "Το φαγητό ήταν <mark>νόστιμο</mark>.",
+        "translation": "The food was tasty."
+      }
+    ],
+    "notes": "Adjective, declinable (νόστιμος, νόστιμη, νόστιμο).",
+    "created": "2026-03-16T06:29:40.128339Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 60,
+    "greek_word": "πατάτα",
+    "article": "η",
+    "translation": [
+      "potato"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "patáta",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Μου αρέσει να τρώω τηγανητές <mark>πατάτες</mark>.",
+        "translation": "I like to eat fried potatoes."
+      },
+      {
+        "greek": "Η <mark>πατάτα</mark> είναι ένα πολύ κοινό λαχανικό.",
+        "translation": "The potato is a very common vegetable."
+      },
+      {
+        "greek": "Θα ήθελα μια <mark>πατάτα</mark> ψητή με βούτυρο.",
+        "translation": "I would like a baked potato with butter."
+      }
+    ],
+    "notes": "Regular feminine noun, plural: πατάτες.",
+    "created": "2026-03-16T06:29:40.128362Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 61,
+    "greek_word": "πίτα",
+    "article": "η",
+    "translation": [
+      "pie",
+      "pita bread"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "píta",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Θα φάμε μια νόστιμη <mark>πίτα</mark> για μεσημεριανό.",
+        "translation": "We will eat a delicious pie for lunch."
+      },
+      {
+        "greek": "Μπορείτε να μου δώσετε μια <mark>πίτα</mark> για τον γύρο;",
+        "translation": "Can you give me a pita for the gyros?"
+      },
+      {
+        "greek": "Η σπανακό<mark>πιτα</mark> είναι η αγαπημένη μου.",
+        "translation": "Spinach pie is my favorite."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T06:29:40.128369Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 62,
+    "greek_word": "πιπέρι",
+    "article": "το",
+    "translation": [
+      "pepper"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "pipéri",
+    "tags": [
+      "food",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω λίγο <mark>πιπέρι</mark> στη σαλάτα μου.",
+        "translation": "I want a little pepper in my salad."
+      },
+      {
+        "greek": "Το μαύρο <mark>πιπέρι</mark> είναι πολύ αρωματικό.",
+        "translation": "Black pepper is very aromatic."
+      },
+      {
+        "greek": "Μπορείς να μου περάσεις το <mark>πιπέρι</mark>, παρακαλώ;",
+        "translation": "Can you pass me the pepper, please?"
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T06:29:40.128374Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 63,
+    "greek_word": "πιάτο",
+    "article": "το",
+    "translation": [
+      "plate",
+      "dish"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "piáto",
+    "tags": [
+      "food",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>πιάτο</mark> είναι άδειο.",
+        "translation": "The plate is empty."
+      },
+      {
+        "greek": "Μπορείτε να μου φέρετε ένα καθαρό <mark>πιάτο</mark>;",
+        "translation": "Can you bring me a clean plate?"
+      },
+      {
+        "greek": "Έπλυνε όλα τα <mark>πιάτα</mark> μετά το δείπνο.",
+        "translation": "He washed all the dishes after dinner."
+      }
+    ],
+    "notes": "Common neuter noun.",
+    "created": "2026-03-16T06:29:40.128378Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 64,
+    "greek_word": "άλογο",
+    "article": "το",
+    "translation": [
+      "horse"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "álogo",
+    "tags": [
+      "nature",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>άλογο</mark> τρέχει γρήγορα στο λιβάδι.",
+        "translation": "The horse runs fast in the meadow."
+      },
+      {
+        "greek": "Μου αρέσει να βλέπω το <mark>άλογο</mark> να τρώει γρασίδι.",
+        "translation": "I like to watch the horse eat grass."
+      },
+      {
+        "greek": "Τα <mark>άλογα</mark> είναι πολύ όμορφα ζώα.",
+        "translation": "Horses are very beautiful animals."
+      }
+    ],
+    "notes": "Neuter noun.",
+    "created": "2026-03-16T06:29:40.128382Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 65,
+    "greek_word": "ζώο",
+    "article": "το",
+    "translation": [
+      "animal",
+      "beast"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "zóo",
+    "tags": [
+      "nature",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>ζώο</mark> κοιμάται στον κήπο.",
+        "translation": "The animal is sleeping in the garden."
+      },
+      {
+        "greek": "Έχω ένα κατοικίδιο <mark>ζώο</mark>, έναν σκύλο.",
+        "translation": "I have a pet animal, a dog."
+      },
+      {
+        "greek": "Πολλά <mark>ζώα</mark> ζουν στο δάσος.",
+        "translation": "Many animals live in the forest."
+      }
+    ],
+    "notes": "Common neuter noun.",
+    "created": "2026-03-16T06:29:40.128386Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 66,
+    "greek_word": "καφές",
+    "article": "ο",
+    "translation": [
+      "coffee"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "kafés",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω έναν <mark>καφέ</mark>, παρακαλώ.",
+        "translation": "I want a coffee, please."
+      },
+      {
+        "greek": "Ο ελληνικός <mark>καφές</mark> είναι πολύ δυνατός.",
+        "translation": "Greek coffee is very strong."
+      },
+      {
+        "greek": "Πίνω <mark>καφέ</mark> κάθε πρωί.",
+        "translation": "I drink coffee every morning."
+      }
+    ],
+    "notes": "Common masculine noun.",
+    "created": "2026-03-16T06:29:40.128391Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 67,
+    "greek_word": "πίνω",
+    "article": null,
+    "translation": [
+      "I drink",
+      "to drink"
+    ],
+    "part_of_speech": "verb",
+    "gender": null,
+    "transliteration": "píno",
+    "tags": [
+      "basics",
+      "routine"
+    ],
+    "examples": [
+      {
+        "greek": "Εγώ <mark>πίνω</mark> νερό κάθε πρωί.",
+        "translation": "I drink water every morning."
+      },
+      {
+        "greek": "Θέλεις να <mark>πιούμε</mark> έναν καφέ μαζί;",
+        "translation": "Do you want to drink a coffee together?"
+      },
+      {
+        "greek": "Το μωρό <mark>πίνει</mark> το γάλα του γρήγορα.",
+        "translation": "The baby drinks its milk quickly."
+      }
+    ],
+    "notes": "Regular type A verb.",
+    "created": "2026-03-16T06:29:40.128395Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 68,
+    "greek_word": "λεμόνι",
+    "article": "το",
+    "translation": [
+      "lemon"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "lemóni",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω ένα <mark>λεμόνι</mark> για τη σαλάτα.",
+        "translation": "I want a lemon for the salad."
+      },
+      {
+        "greek": "Το <mark>λεμόνι</mark> είναι ξινό.",
+        "translation": "The lemon is sour."
+      },
+      {
+        "greek": "Μου αρέσει ο χυμός από φρέσκα <mark>λεμόνια</mark>.",
+        "translation": "I like juice from fresh lemons."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T06:29:40.128399Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 69,
+    "greek_word": "καπέλο",
+    "article": "το",
+    "translation": [
+      "hat",
+      "cap"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "kapélo",
+    "tags": [
+      "basics",
+      "shopping"
+    ],
+    "examples": [
+      {
+        "greek": "Έχω ένα <mark>καπέλο</mark>.",
+        "translation": "I have a hat."
+      },
+      {
+        "greek": "Το <mark>καπέλο</mark> είναι κόκκινο.",
+        "translation": "The hat is red."
+      },
+      {
+        "greek": "Θέλω να αγοράσω ένα καινούργιο <mark>καπέλο</mark>.",
+        "translation": "I want to buy a new hat."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T08:09:02.706026Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 70,
+    "greek_word": "γάντι",
+    "article": "το",
+    "translation": [
+      "glove",
+      "gloves"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "gánti",
+    "tags": [
+      "basics",
+      "shopping"
+    ],
+    "examples": [
+      {
+        "greek": "Χρειάζομαι ένα ζευγάρι <mark>γάντια</mark> για τον χειμώνα.",
+        "translation": "I need a pair of gloves for winter."
+      },
+      {
+        "greek": "Το <mark>γάντι</mark> μου έπεσε κάτω.",
+        "translation": "My glove fell down."
+      },
+      {
+        "greek": "Φοράω <mark>γάντια</mark> όταν πλένω τα πιάτα.",
+        "translation": "I wear gloves when I wash the dishes."
+      }
+    ],
+    "notes": "Neuter noun. The plural form is γάντια.",
+    "created": "2026-03-16T08:09:02.706082Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 71,
+    "greek_word": "πάπια",
+    "article": "η",
+    "translation": [
+      "duck"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "pápia",
+    "tags": [
+      "nature",
+      "food"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>πάπια</mark> κολυμπάει στη λίμνη.",
+        "translation": "The duck swims in the lake."
+      },
+      {
+        "greek": "Είδαμε πολλές <mark>πάπιες</mark> στο πάρκο.",
+        "translation": "We saw many ducks in the park."
+      },
+      {
+        "greek": "Μου αρέσει το ψητό <mark>πάπια</mark> με πορτοκάλι.",
+        "translation": "I like roast duck with orange."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T08:09:02.706093Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 72,
+    "greek_word": "πουλί",
+    "article": "το",
+    "translation": [
+      "bird"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "poulí",
+    "tags": [
+      "nature",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>πουλί</mark> κελαηδάει στο δέντρο.",
+        "translation": "The bird is singing in the tree."
+      },
+      {
+        "greek": "Βλέπω ένα όμορφο <mark>πουλί</mark> στον ουρανό.",
+        "translation": "I see a beautiful bird in the sky."
+      },
+      {
+        "greek": "Τα <mark>πουλιά</mark> πετούν ψηλά.",
+        "translation": "The birds fly high."
+      }
+    ],
+    "notes": "Regular neuter noun.",
+    "created": "2026-03-16T08:09:02.706100Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 73,
+    "greek_word": "ερπετό",
+    "article": "το",
+    "translation": [
+      "reptile"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "erpetó",
+    "tags": [
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Τα <mark>ερπετά</mark> είναι ψυχρόαιμα ζώα.",
+        "translation": "Reptiles are cold-blooded animals."
+      },
+      {
+        "greek": "Δεν μου αρέσουν τα <mark>ερπετά</mark>.",
+        "translation": "I don't like reptiles."
+      },
+      {
+        "greek": "Είδα ένα μικρό <mark>ερπετό</mark> στον κήπο μας.",
+        "translation": "I saw a small reptile in our garden."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T08:09:02.706106Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 74,
+    "greek_word": "πουκάμισο",
+    "article": "το",
+    "translation": [
+      "shirt"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "poukámiso",
+    "tags": [
+      "shopping",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω να αγοράσω ένα καινούργιο <mark>πουκάμισο</mark>.",
+        "translation": "I want to buy a new shirt."
+      },
+      {
+        "greek": "Το μπλε <mark>πουκάμισο</mark> είναι πολύ ωραίο.",
+        "translation": "The blue shirt is very nice."
+      },
+      {
+        "greek": "Φοράει ένα λευκό <mark>πουκάμισο</mark> σήμερα.",
+        "translation": "He is wearing a white shirt today."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T08:09:02.706113Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 75,
+    "greek_word": "φούστα",
+    "article": "η",
+    "translation": [
+      "skirt"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "foústa",
+    "tags": [
+      "shopping",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>φούστα</mark> της είναι πολύ όμορφη.",
+        "translation": "Her skirt is very beautiful."
+      },
+      {
+        "greek": "Θέλω να αγοράσω μια καινούργια <mark>φούστα</mark>.",
+        "translation": "I want to buy a new skirt."
+      },
+      {
+        "greek": "Φοράει μια κόκκινη <mark>φούστα</mark> σήμερα.",
+        "translation": "She is wearing a red skirt today."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T08:09:02.706119Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 76,
+    "greek_word": "μπότα",
+    "article": "η",
+    "translation": [
+      "boot"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "bóta",
+    "tags": [
+      "shopping",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Αγόρασα μια καινούργια <mark>μπότα</mark> για το χειμώνα.",
+        "translation": "I bought a new boot for winter."
+      },
+      {
+        "greek": "Οι <mark>μπότες</mark> της είναι πολύ κομψές.",
+        "translation": "Her boots are very elegant."
+      },
+      {
+        "greek": "Χρειάζομαι αδιάβροχες <mark>μπότες</mark> για την πεζοπορία.",
+        "translation": "I need waterproof boots for hiking."
+      }
+    ],
+    "notes": "Feminine noun.",
+    "created": "2026-03-16T08:09:02.706125Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 77,
+    "greek_word": "ροδάκινο",
+    "article": "το",
+    "translation": [
+      "peach"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "rodákino",
+    "tags": [
+      "food",
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω ένα <mark>ροδάκινο</mark> για επιδόρπιο.",
+        "translation": "I want a peach for dessert."
+      },
+      {
+        "greek": "Το <mark>ροδάκινο</mark> είναι ένα από τα αγαπημένα μου φρούτα.",
+        "translation": "The peach is one of my favorite fruits."
+      },
+      {
+        "greek": "Αγόρασα φρέσκα <mark>ροδάκινα</mark> από την αγορά.",
+        "translation": "I bought fresh peaches from the market."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T08:09:02.706131Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 78,
+    "greek_word": "αδελφή",
+    "article": "η",
+    "translation": [
+      "sister"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "adelfí",
+    "tags": [
+      "people",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>αδελφή</mark> μου μένει στην Αθήνα.",
+        "translation": "My sister lives in Athens."
+      },
+      {
+        "greek": "Έχεις <mark>αδελφή</mark>;",
+        "translation": "Do you have a sister?"
+      },
+      {
+        "greek": "Είναι η μικρότερη <mark>αδελφή</mark> μου.",
+        "translation": "She is my younger sister."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T08:09:02.706144Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 79,
+    "greek_word": "τυρί",
+    "article": "το",
+    "translation": [
+      "cheese"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "tyrí",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω λίγο <mark>τυρί</mark> για τη σαλάτα μου.",
+        "translation": "I want a little cheese for my salad."
+      },
+      {
+        "greek": "Το ελληνικό <mark>τυρί</mark> είναι πολύ νόστιμο.",
+        "translation": "Greek cheese is very delicious."
+      },
+      {
+        "greek": "Μπορώ να έχω ένα σάντουιτς με <mark>τυρί</mark>;",
+        "translation": "Can I have a cheese sandwich?"
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T08:45:31.487807Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 80,
+    "greek_word": "πορτοφόλι",
+    "article": "το",
+    "translation": [
+      "wallet",
+      "purse"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "portofóli",
+    "tags": [
+      "shopping",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Έχασα το <mark>πορτοφόλι</mark> μου στην αγορά.",
+        "translation": "I lost my wallet at the market."
+      },
+      {
+        "greek": "Μέσα στο <mark>πορτοφόλι</mark> του είχε μόνο κέρματα.",
+        "translation": "Inside his wallet, there were only coins."
+      },
+      {
+        "greek": "Αυτό το <mark>πορτοφόλι</mark> είναι πολύ πρακτικό.",
+        "translation": "This wallet is very practical."
+      }
+    ],
+    "notes": "Common neuter noun.",
+    "created": "2026-03-16T08:45:31.487832Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 81,
+    "greek_word": "ποντίκι",
+    "article": "το",
+    "translation": [
+      "mouse"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "pontíki",
+    "tags": [
+      "home",
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>ποντίκι</mark> είναι μικρό.",
+        "translation": "The mouse is small."
+      },
+      {
+        "greek": "Είδα ένα <mark>ποντίκι</mark> στην κουζίνα.",
+        "translation": "I saw a mouse in the kitchen."
+      },
+      {
+        "greek": "Η γάτα έπιασε το <mark>ποντίκι</mark>.",
+        "translation": "The cat caught the mouse."
+      }
+    ],
+    "notes": "Common neuter noun.",
+    "created": "2026-03-16T08:45:31.487838Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 82,
+    "greek_word": "πελεκάνος",
+    "article": "ο",
+    "translation": [
+      "pelican"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "pelekános",
+    "tags": [
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>πελεκάνος</mark> είναι ένα μεγάλο πουλί.",
+        "translation": "The pelican is a large bird."
+      },
+      {
+        "greek": "Είδαμε πολλούς <mark>πελεκάνους</mark> στη λίμνη.",
+        "translation": "We saw many pelicans in the lake."
+      },
+      {
+        "greek": "Ο <mark>πελεκάνος</mark> έπιασε ένα ψάρι.",
+        "translation": "The pelican caught a fish."
+      }
+    ],
+    "notes": "Regular masculine noun.",
+    "created": "2026-03-16T08:45:31.487842Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 83,
+    "greek_word": "χελώνα",
+    "article": "η",
+    "translation": [
+      "turtle",
+      "tortoise"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "chelóna",
+    "tags": [
+      "nature",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>χελώνα</mark> κολυμπάει αργά στο νερό.",
+        "translation": "The turtle swims slowly in the water."
+      },
+      {
+        "greek": "Έχουμε μια μικρή <mark>χελώνα</mark> ως κατοικίδιο.",
+        "translation": "We have a small turtle as a pet."
+      },
+      {
+        "greek": "Οι θαλάσσιες <mark>χελώνες</mark> είναι προστατευόμενο είδος.",
+        "translation": "Sea turtles are a protected species."
+      }
+    ],
+    "notes": "Regular feminine noun.",
+    "created": "2026-03-16T08:45:31.487845Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 84,
+    "greek_word": "μπλουζάκι",
+    "article": "το",
+    "translation": [
+      "t-shirt",
+      "blouse"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "blouzáki",
+    "tags": [
+      "shopping",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω να αγοράσω ένα καινούργιο <mark>μπλουζάκι</mark>.",
+        "translation": "I want to buy a new t-shirt."
+      },
+      {
+        "greek": "Το <mark>μπλουζάκι</mark> σου είναι πολύ ωραίο.",
+        "translation": "Your t-shirt is very nice."
+      },
+      {
+        "greek": "Φοράει ένα κόκκινο <mark>μπλουζάκι</mark> σήμερα.",
+        "translation": "He/She is wearing a red t-shirt today."
+      }
+    ],
+    "notes": "Diminutive of μπλούζα (blouse).",
+    "created": "2026-03-16T08:45:31.487849Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 85,
+    "greek_word": "αετός",
+    "article": "ο",
+    "translation": [
+      "eagle"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "aetós",
+    "tags": [
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>αετός</mark> πετάει ψηλά στον ουρανό.",
+        "translation": "The eagle flies high in the sky."
+      },
+      {
+        "greek": "Είδα έναν μεγάλο <mark>αετό</mark> στο βουνό.",
+        "translation": "I saw a big eagle on the mountain."
+      },
+      {
+        "greek": "Ο <mark>αετός</mark> είναι ένα δυνατό πουλί.",
+        "translation": "The eagle is a strong bird."
+      }
+    ],
+    "notes": "Regular masculine noun.",
+    "created": "2026-03-16T08:45:31.487852Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 86,
+    "greek_word": "καβούρι",
+    "article": "το",
+    "translation": [
+      "crab"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "kavoúri",
+    "tags": [
+      "food",
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Μου αρέσει να τρώω <mark>καβούρι</mark>.",
+        "translation": "I like to eat crab."
+      },
+      {
+        "greek": "Είδα ένα μεγάλο <mark>καβούρι</mark> στην παραλία.",
+        "translation": "I saw a big crab on the beach."
+      },
+      {
+        "greek": "Τα <mark>καβούρια</mark> ζουν στη θάλασσα.",
+        "translation": "Crabs live in the sea."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T08:45:31.487855Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 87,
+    "greek_word": "στολή",
+    "article": "η",
+    "translation": [
+      "uniform",
+      "costume"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "stolī́",
+    "tags": [
+      "work",
+      "entertainment"
+    ],
+    "examples": [
+      {
+        "greek": "Ο αστυνομικός φορούσε τη <mark>στολή</mark> του.",
+        "translation": "The police officer was wearing his uniform."
+      },
+      {
+        "greek": "Τα παιδιά στο σχολείο φορούν σχολική <mark>στολή</mark>.",
+        "translation": "The children at school wear a school uniform."
+      },
+      {
+        "greek": "Για το καρναβάλι, θα φορέσω μια αστεία <mark>στολή</mark>.",
+        "translation": "For carnival, I will wear a funny costume."
+      }
+    ],
+    "notes": "Feminine noun, plural: στολές.",
+    "created": "2026-03-16T08:45:31.487858Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 88,
+    "greek_word": "δέρμα",
+    "article": "το",
+    "translation": [
+      "skin",
+      "leather"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "dérma",
+    "tags": [
+      "health",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Το <mark>δέρμα</mark> του είναι πολύ απαλό.",
+        "translation": "His skin is very soft."
+      },
+      {
+        "greek": "Αγόρασα μια τσάντα από γνήσιο <mark>δέρμα</mark>.",
+        "translation": "I bought a bag made of genuine leather."
+      },
+      {
+        "greek": "Πρέπει να προστατεύουμε το <mark>δέρμα</mark> μας από τον ήλιο.",
+        "translation": "We must protect our skin from the sun."
+      }
+    ],
+    "notes": "Neuter noun, ending in -μα.",
+    "created": "2026-03-16T08:45:31.487862Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 89,
+    "greek_word": "πεταλούδα",
+    "article": "η",
+    "translation": [
+      "butterfly"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "petaloúda",
+    "tags": [
+      "nature",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Μια όμορφη <mark>πεταλούδα</mark> πέταξε στον κήπο.",
+        "translation": "A beautiful butterfly flew in the garden."
+      },
+      {
+        "greek": "Τα παιδιά κυνηγούσαν την <mark>πεταλούδα</mark> με το δίχτυ.",
+        "translation": "The children were chasing the butterfly with the net."
+      },
+      {
+        "greek": "Η κάμπια μεταμορφώνεται σε <mark>πεταλούδα</mark>.",
+        "translation": "The caterpillar transforms into a butterfly."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T09:04:25.976044Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 90,
+    "greek_word": "νέος",
+    "article": null,
+    "translation": [
+      "new",
+      "young"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "néos",
+    "tags": [
+      "basics",
+      "time"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>νέος</mark> μαθητής είναι πολύ έξυπνος.",
+        "translation": "The <mark>new</mark> student is very smart."
+      },
+      {
+        "greek": "Η <mark>νέα</mark> δασκάλα μιλάει ελληνικά.",
+        "translation": "The <mark>new</mark> teacher speaks Greek."
+      },
+      {
+        "greek": "Το <mark>νέο</mark> αυτοκίνητο είναι κόκκινο.",
+        "translation": "The <mark>new</mark> car is red."
+      }
+    ],
+    "notes": "Adjective, declinable (νέος, νέα, νέο).",
+    "created": "2026-03-16T13:30:41.871700Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 91,
+    "greek_word": "τελευταίος",
+    "article": null,
+    "translation": [
+      "last",
+      "final"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "telefteos",
+    "tags": [
+      "time",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>τελευταίος</mark> πελάτης έφυγε από το μαγαζί.",
+        "translation": "The last customer left the store."
+      },
+      {
+        "greek": "Αυτή είναι η <mark>τελευταία</mark> μου ευκαιρία να μιλήσω.",
+        "translation": "This is my last chance to speak."
+      },
+      {
+        "greek": "Το <mark>τελευταίο</mark> κεφάλαιο του βιβλίου ήταν συναρπαστικό.",
+        "translation": "The last chapter of the book was exciting."
+      }
+    ],
+    "notes": "Adjective, declinable.",
+    "created": "2026-03-16T13:30:41.871715Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 92,
+    "greek_word": "πρώτος",
+    "article": null,
+    "translation": [
+      "first"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "prótos",
+    "tags": [
+      "basics",
+      "time"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>πρώτος</mark> μαθητής μπήκε στην τάξη.",
+        "translation": "The first student entered the classroom."
+      },
+      {
+        "greek": "Αυτή είναι η <mark>πρώτη</mark> φορά που ταξιδεύω.",
+        "translation": "This is the first time I travel."
+      },
+      {
+        "greek": "Το <mark>πρώτο</mark> πράγμα που κάνω το πρωί είναι να πίνω καφέ.",
+        "translation": "The first thing I do in the morning is drink coffee."
+      }
+    ],
+    "notes": "Ordinal number adjective.",
+    "created": "2026-03-16T13:30:41.871719Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 93,
+    "greek_word": "μακρύς",
+    "article": null,
+    "translation": [
+      "long"
+    ],
+    "part_of_speech": "adjective",
+    "gender": null,
+    "transliteration": "makrýs",
+    "tags": [
+      "basics",
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Ο δρόμος είναι <mark>μακρύς</mark>.",
+        "translation": "The road is long."
+      },
+      {
+        "greek": "Η ιστορία είναι <mark>μακριά</mark>.",
+        "translation": "The story is long."
+      },
+      {
+        "greek": "Το ποτάμι είναι <mark>μακρύ</mark>.",
+        "translation": "The river is long."
+      }
+    ],
+    "notes": "Adjective with three endings (μακρύς, μακριά, μακρύ).",
+    "created": "2026-03-16T13:30:41.871722Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 94,
+    "greek_word": "χρόνος",
+    "article": "ο",
+    "translation": [
+      "time",
+      "year"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "chrónos",
+    "tags": [
+      "time",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Ο <mark>χρόνος</mark> περνάει πολύ γρήγορα.",
+        "translation": "Time passes very quickly."
+      },
+      {
+        "greek": "Πόσο <mark>χρόνο</mark> χρειάζεσαι για αυτό;",
+        "translation": "How much time do you need for this?"
+      },
+      {
+        "greek": "Κάθε <mark>χρόνο</mark> επισκεπτόμαστε τους παππούδες μας.",
+        "translation": "Every year we visit our grandparents."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T14:17:59.492176Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 95,
+    "greek_word": "φόβος",
+    "article": "ο",
+    "translation": [
+      "fear",
+      "phobia"
+    ],
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "transliteration": "fóvos",
+    "tags": [
+      "feelings",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Έχω <mark>φόβο</mark> για τα ύψη.",
+        "translation": "I have a fear of heights."
+      },
+      {
+        "greek": "Ο <mark>φόβος</mark> είναι ένα δυνατό συναίσθημα.",
+        "translation": "Fear is a strong emotion."
+      },
+      {
+        "greek": "Μην αφήνεις τον <mark>φόβο</mark> να σε σταματάει.",
+        "translation": "Don't let fear stop you."
+      }
+    ],
+    "notes": "Common masculine noun.",
+    "created": "2026-03-16T14:17:59.492199Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 96,
+    "greek_word": "πρόβλημα",
+    "article": "το",
+    "translation": [
+      "problem",
+      "issue"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "próvlima",
+    "tags": [
+      "basics",
+      "routine"
+    ],
+    "examples": [
+      {
+        "greek": "Έχω ένα <mark>πρόβλημα</mark> με τον υπολογιστή μου.",
+        "translation": "I have a problem with my computer."
+      },
+      {
+        "greek": "Αυτό είναι ένα σοβαρό <mark>πρόβλημα</mark> που πρέπει να λύσουμε.",
+        "translation": "This is a serious problem that we need to solve."
+      },
+      {
+        "greek": "Δεν υπάρχουν <mark>προβλήματα</mark>, μόνο λύσεις.",
+        "translation": "There are no problems, only solutions."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T14:17:59.492204Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 97,
+    "greek_word": "ιδέα",
+    "article": "η",
+    "translation": [
+      "idea",
+      "thought"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "idéa",
+    "tags": [
+      "basics",
+      "feelings"
+    ],
+    "examples": [
+      {
+        "greek": "Έχω μια καλή <mark>ιδέα</mark> για το πάρτι.",
+        "translation": "I have a good idea for the party."
+      },
+      {
+        "greek": "Η <mark>ιδέα</mark> σου είναι εξαιρετική!",
+        "translation": "Your idea is excellent!"
+      },
+      {
+        "greek": "Μου ήρθε μια νέα <mark>ιδέα</mark> για το έργο.",
+        "translation": "A new idea came to me for the project."
+      }
+    ],
+    "notes": "Feminine noun.",
+    "created": "2026-03-16T14:17:59.492208Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 98,
+    "greek_word": "μουσική",
+    "article": "η",
+    "translation": [
+      "music"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "mousikí",
+    "tags": [
+      "entertainment",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Μου αρέσει η <mark>μουσική</mark>.",
+        "translation": "I like music."
+      },
+      {
+        "greek": "Ακούει <mark>μουσική</mark> κάθε μέρα.",
+        "translation": "She listens to music every day."
+      },
+      {
+        "greek": "Η <mark>μουσική</mark> είναι δυνατή.",
+        "translation": "The music is loud."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T14:17:59.492211Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 99,
+    "greek_word": "τηλέφωνο",
+    "article": "το",
+    "translation": [
+      "telephone",
+      "phone"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "tiléfono",
+    "tags": [
+      "tech",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Έχω ένα καινούργιο <mark>τηλέφωνο</mark>.",
+        "translation": "I have a new phone."
+      },
+      {
+        "greek": "Μπορείς να μου δώσεις το <mark>τηλέφωνό</mark> σου;",
+        "translation": "Can you give me your phone number?"
+      },
+      {
+        "greek": "Το <mark>τηλέφωνο</mark> χτυπάει δυνατά.",
+        "translation": "The phone is ringing loudly."
+      }
+    ],
+    "notes": "Common neuter noun.",
+    "created": "2026-03-16T14:17:59.492215Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 100,
+    "greek_word": "σοκολάτα",
+    "article": "η",
+    "translation": [
+      "chocolate"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "sokoláta",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Μου αρέσει η <mark>σοκολάτα</mark> γάλακτος.",
+        "translation": "I like milk chocolate."
+      },
+      {
+        "greek": "Θέλεις ένα κομμάτι <mark>σοκολάτα</mark>;",
+        "translation": "Do you want a piece of chocolate?"
+      },
+      {
+        "greek": "Αγόρασα μια πλάκα <mark>σοκολάτα</mark>.",
+        "translation": "I bought a bar of chocolate."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-16T14:17:59.492218Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 101,
+    "greek_word": "αγγούρι",
+    "article": "το",
+    "translation": [
+      "cucumber"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "angoúri",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω ένα <mark>αγγούρι</mark> για τη σαλάτα.",
+        "translation": "I want a cucumber for the salad."
+      },
+      {
+        "greek": "Το <mark>αγγούρι</mark> είναι δροσερό.",
+        "translation": "The cucumber is refreshing."
+      },
+      {
+        "greek": "Μου αρέσουν τα <mark>αγγούρια</mark> με γιαούρτι.",
+        "translation": "I like cucumbers with yogurt."
+      }
+    ],
+    "notes": "Regular neuter noun.",
+    "created": "2026-03-16T14:17:59.492221Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 102,
+    "greek_word": "χάος",
+    "article": "το",
+    "translation": [
+      "chaos",
+      "mess"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "cháos",
+    "tags": [
+      "emergencies",
+      "feelings"
+    ],
+    "examples": [
+      {
+        "greek": "Το δωμάτιο είναι σε απόλυτο <mark>χάος</mark>.",
+        "translation": "The room is in absolute chaos."
+      },
+      {
+        "greek": "Μετά το ατύχημα επικράτησε <mark>χάος</mark>.",
+        "translation": "After the accident, chaos prevailed."
+      },
+      {
+        "greek": "Το μυαλό του ήταν ένα <mark>χάος</mark> από σκέψεις.",
+        "translation": "His mind was a chaos of thoughts."
+      }
+    ],
+    "notes": "Indeclinable neuter noun.",
+    "created": "2026-03-16T14:17:59.492224Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 103,
+    "greek_word": "Ακαδημία",
+    "article": "η",
+    "translation": [
+      "academy",
+      "academia"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "Akadimía",
+    "tags": [
+      "places",
+      "work"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>Ακαδημία</mark> είναι ένα ιστορικό κτίριο στην πόλη.",
+        "translation": "The academy is a historic building in the city."
+      },
+      {
+        "greek": "Σπουδάζει στην <mark>Ακαδημία</mark> Καλών Τεχνών.",
+        "translation": "She studies at the Academy of Fine Arts."
+      },
+      {
+        "greek": "Η <mark>Ακαδημία</mark> προσφέρει πολλά ενδιαφέροντα μαθήματα.",
+        "translation": "The academy offers many interesting courses."
+      }
+    ],
+    "notes": "Feminine noun, from ancient Greek.",
+    "created": "2026-03-16T14:17:59.492228Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  }
+]
