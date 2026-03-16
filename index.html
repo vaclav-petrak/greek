@@ -1,1 +1,46 @@
-<meta http-equiv="refresh" content="0; url=https://petrak.io/greek/web/">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="web/styles.css">
+    <title>Greek Dictionary</title>
+</head>
+<body>
+
+    <div class="slide-container" id="presentation">
+        
+        <div class="slide-front" id="slideFront">
+            <h1 class="massive-word" id="frontWord">Loading...</h1>
+            <div class="hint">Click or press Space to reveal</div>
+        </div>
+
+        <div class="slide-reveal" id="slideReveal">
+            <div class="image-pane" id="imagePane">
+                </div>
+            <div class="content-pane">
+                <h2 class="reveal-word" id="revealWord"></h2>
+                <div class="transliteration" id="transliteration"></div>
+                
+                <div class="tags-container" id="tagsContainer">
+                    </div>
+
+                <h3 class="translation" id="translation"></h3>
+                
+                <div id="examplesContainer">
+                    </div>
+                
+                <div class="word-id" id="wordId"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="controls">
+        <button id="btnPrev">← Prev</button>
+        <button id="btnNext">Next →</button>
+    </div>
+
+    <script src="web/app.js"></script>
+</body>
+</html>
