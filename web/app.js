@@ -3,7 +3,7 @@ let currentIndex = 0;
 let isRevealed = false;
 let renderTimeout;
 let currentAudio = null;
-let assetBasePath = '../assets';
+let assetBasePath = 'assets';
 
 async function fetchJsonWithFallback(urls) {
     let lastError;
@@ -71,12 +71,11 @@ const presentation = document.getElementById('presentation');
 async function loadDictionary() {
     try {
         const { url, json } = await fetchJsonWithFallback([
-            '/data/dictionary.json',
-            '../data/dictionary.json'
+            'data/dictionary.json'
         ]);
         dictionary = json;
 
-        assetBasePath = url.startsWith('/') ? '/assets' : '../assets';
+        assetBasePath = 'assets';
 
         // Shuffle dictionary order on initial load
         for (let i = dictionary.length - 1; i > 0; i--) {
