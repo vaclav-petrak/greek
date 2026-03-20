@@ -2,6 +2,7 @@
 
 :root {
     --primary: #c2410c; /* Warm Terracotta */
+    --secondary: #FFA947; /* Amber */
     --bg-color: #ffffff; /* Pure White */
     --text-main: #1c1917; /* Ink Black / Dark Warm Gray */
     --text-muted: #78716c; /* Warm Gray */
@@ -204,9 +205,8 @@ mark {
 }
 
 .audio-link:hover {
-    color: var(--primary);
-    text-decoration: underline;
-    text-decoration-color: var(--primary);
+    color: var(--secondary);
+    text-decoration-color: var(--secondary);
     text-decoration-thickness: 2px;
     text-underline-offset: 0.14em;
 }
