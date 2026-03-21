@@ -4381,5 +4381,329 @@
       "good_answers": 0,
       "bad_answers": 0
     }
+  },
+  {
+    "id": 123,
+    "greek_word": "αυτή",
+    "article": null,
+    "translation": [
+      "she",
+      "this (feminine)"
+    ],
+    "part_of_speech": "pronoun",
+    "gender": null,
+    "transliteration": "aftí",
+    "tags": [
+      "basics",
+      "grammar"
+    ],
+    "examples": [
+      {
+        "greek": "<mark>Αυτή</mark> είναι η δασκάλα μου.",
+        "translation": "She is my teacher."
+      },
+      {
+        "greek": "Είδα <mark>αυτήν</mark> την ταινία χθες.",
+        "translation": "I saw this movie yesterday."
+      },
+      {
+        "greek": "Μίλησα σε <mark>αυτήν</mark> για το ταξίδι.",
+        "translation": "I spoke to her about the trip."
+      }
+    ],
+    "notes": "Feminine demonstrative pronoun/adjective. 'Αυτήν' is the accusative singular form.",
+    "created": "2026-03-21T06:26:47.173185Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 124,
+    "greek_word": "δένω",
+    "article": null,
+    "translation": [
+      "I tie",
+      "to tie"
+    ],
+    "part_of_speech": "verb",
+    "gender": null,
+    "transliteration": "déno",
+    "tags": [
+      "routine",
+      "home"
+    ],
+    "examples": [
+      {
+        "greek": "Εγώ <mark>δένω</mark> τα κορδόνια μου κάθε πρωί.",
+        "translation": "I tie my shoelaces every morning."
+      },
+      {
+        "greek": "Μπορείς να <mark>δέσεις</mark> το σχοινί στην κολόνα;",
+        "translation": "Can you tie the rope to the pole?"
+      },
+      {
+        "greek": "Θα <mark>δέσει</mark> το πακέτο πριν το στείλει.",
+        "translation": "He will tie the package before he sends it."
+      }
+    ],
+    "notes": "Regular type A verb.",
+    "created": "2026-03-21T06:28:50.637926Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 126,
+    "greek_word": "παγωτό",
+    "article": "το",
+    "translation": [
+      "ice cream"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "pagotó",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Θέλω ένα <mark>παγωτό</mark> σοκολάτα.",
+        "translation": "I want a chocolate ice cream."
+      },
+      {
+        "greek": "Το <mark>παγωτό</mark> είναι πολύ νόστιμο.",
+        "translation": "The ice cream is very delicious."
+      },
+      {
+        "greek": "Πάμε για <mark>παγωτό</mark> μετά το δείπνο;",
+        "translation": "Shall we go for ice cream after dinner?"
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-21T06:42:06.678686Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 127,
+    "greek_word": "φρούτο",
+    "article": "το",
+    "translation": [
+      "fruit"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "froúto",
+    "tags": [
+      "food",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Μου αρέσει να τρώω <mark>φρούτα</mark> το πρωί.",
+        "translation": "I like to eat fruit in the morning."
+      },
+      {
+        "greek": "Αυτό το <mark>φρούτο</mark> είναι πολύ γλυκό.",
+        "translation": "This fruit is very sweet."
+      },
+      {
+        "greek": "Θέλεις ένα <mark>φρούτο</mark> για επιδόρπιο;",
+        "translation": "Do you want a fruit for dessert?"
+      }
+    ],
+    "notes": "Common neuter noun.",
+    "created": "2026-03-21T06:45:34.594135Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 128,
+    "greek_word": "αρκούδα",
+    "article": "η",
+    "translation": [
+      "bear"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "arkoúda",
+    "tags": [
+      "nature",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>αρκούδα</mark> ζει στο δάσος.",
+        "translation": "The bear lives in the forest."
+      },
+      {
+        "greek": "Είδα μια μεγάλη <mark>αρκούδα</mark> στο ζωολογικό κήπο.",
+        "translation": "I saw a big bear at the zoo."
+      },
+      {
+        "greek": "Οι <mark>αρκούδες</mark> τρώνε μέλι.",
+        "translation": "Bears eat honey."
+      }
+    ],
+    "notes": "Regular feminine noun.",
+    "created": "2026-03-21T06:47:42.439903Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 129,
+    "greek_word": "τίγρης",
+    "article": "η",
+    "translation": [
+      "tiger"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "tígris",
+    "tags": [
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>τίγρης</mark> είναι ένα άγριο ζώο.",
+        "translation": "The tiger is a wild animal."
+      },
+      {
+        "greek": "Είδα μια <mark>τίγρη</mark> στον ζωολογικό κήπο.",
+        "translation": "I saw a tiger at the zoo."
+      },
+      {
+        "greek": "Οι <mark>τίγρεις</mark> είναι μεγάλες γάτες.",
+        "translation": "Tigers are big cats."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-21T06:48:58.554413Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 132,
+    "greek_word": "ζέβρα",
+    "article": "η",
+    "translation": [
+      "zebra"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "zévra",
+    "tags": [
+      "nature",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>ζέβρα</mark> έχει μαύρες και άσπρες ρίγες.",
+        "translation": "The zebra has black and white stripes."
+      },
+      {
+        "greek": "Είδαμε μια <mark>ζέβρα</mark> στο ντοκιμαντέρ.",
+        "translation": "We saw a zebra in the documentary."
+      },
+      {
+        "greek": "Οι <mark>ζέβρες</mark> είναι άγρια ζώα.",
+        "translation": "Zebras are wild animals."
+      }
+    ],
+    "notes": "Feminine noun.",
+    "created": "2026-03-21T07:13:13.628314Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 134,
+    "greek_word": "θηλαστικό",
+    "article": "το",
+    "translation": [
+      "mammal"
+    ],
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "transliteration": "thilastikó",
+    "tags": [
+      "nature",
+      "basics"
+    ],
+    "examples": [
+      {
+        "greek": "Το δελφίνι είναι ένα <mark>θηλαστικό</mark> που ζει στη θάλασσα.",
+        "translation": "The dolphin is a mammal that lives in the sea."
+      },
+      {
+        "greek": "Όλα τα <mark>θηλαστικά</mark> έχουν σπονδυλική στήλη.",
+        "translation": "All mammals have a spine."
+      },
+      {
+        "greek": "Ο άνθρωπος είναι επίσης ένα <mark>θηλαστικό</mark>.",
+        "translation": "Humans are also mammals."
+      }
+    ],
+    "notes": "Regular neuter noun.",
+    "created": "2026-03-21T07:33:41.022316Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
+  },
+  {
+    "id": 135,
+    "greek_word": "καμηλοπάρδαλη",
+    "article": "η",
+    "translation": [
+      "giraffe"
+    ],
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "transliteration": "kamilopárdali",
+    "tags": [
+      "nature"
+    ],
+    "examples": [
+      {
+        "greek": "Η <mark>καμηλοπάρδαλη</mark> έχει πολύ μακρύ λαιμό.",
+        "translation": "The giraffe has a very long neck."
+      },
+      {
+        "greek": "Είδαμε μια <mark>καμηλοπάρδαλη</mark> στον ζωολογικό κήπο.",
+        "translation": "We saw a giraffe at the zoo."
+      },
+      {
+        "greek": "Οι <mark>καμηλοπαρδάλεις</mark> είναι εντυπωσιακά ζώα.",
+        "translation": "Giraffes are impressive animals."
+      }
+    ],
+    "notes": null,
+    "created": "2026-03-21T07:37:19.224568Z",
+    "statistics": {
+      "views": 0,
+      "good_answers": 0,
+      "bad_answers": 0
+    }
   }
 ]
