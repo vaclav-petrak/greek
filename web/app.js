@@ -210,6 +210,10 @@ function updateRevealDOM(wordData, fullGreekWord) {
 function toggleReveal() {
     isRevealed = !isRevealed;
     presentation.classList.toggle('is-revealed', isRevealed);
+    if (isRevealed) {
+        const wordData = dictionary[currentIndex];
+        playSound(getWordSoundSrc(wordData));
+    }
 }
 
 function nextWord(e) {
