@@ -27,7 +27,13 @@
         "translation": "Protect yourselves from the sun."
       }
     ],
-    "notes": "The accent stays on the ή in all singular cases (ήλιου, ήλιο). It refers to both the sun and sunlight."
+    "notes": "The accent stays on the ή in all singular cases (ήλιου, ήλιο). It refers to both the sun and sunlight.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 2,
@@ -58,7 +64,13 @@
         "translation": "We are buying fruits from the market."
       }
     ],
-    "notes": "Regular type A verb."
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 3,
@@ -88,7 +100,13 @@
         "translation": "Do you want an apple?"
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 4,
@@ -118,7 +136,13 @@
         "translation": "The city is very big."
       }
     ],
-    "notes": "Changes endings (μεγάλος/μεγάλη/μεγάλο) for gender."
+    "notes": "Changes endings (μεγάλος/μεγάλη/μεγάλο) for gender.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 5,
@@ -148,7 +172,13 @@
         "translation": "Who said it? I (did)!"
       }
     ],
-    "notes": "Subject pronoun."
+    "notes": "Subject pronoun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 6,
@@ -177,7 +207,13 @@
         "translation": "I bought three books."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 7,
@@ -208,7 +244,13 @@
         "translation": "We were running to catch the bus."
       }
     ],
-    "notes": "Regular type A verb."
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 8,
@@ -221,23 +263,30 @@
     "gender": "feminine",
     "transliteration": "thálassa",
     "tags": [
-      "pronunciation"
+      "travel",
+      "nature"
     ],
     "examples": [
       {
-        "greek": "Η <mark><b>θ</b>άλασσα</mark> είναι μπλε.",
+        "greek": "Η <mark>θάλασσα</mark> είναι μπλε.",
         "translation": "The sea is blue."
       },
       {
-        "greek": "Πάμε στη <mark><b>θ</b>άλασσα</mark>!",
+        "greek": "Πάμε στη <mark>θάλασσα</mark>!",
         "translation": "Let's go to the sea!"
       },
       {
-        "greek": "Κολυμπάω στη <mark><b>θ</b>άλασσα</mark> κάθε μέρα.",
+        "greek": "Κολυμπάω στη <mark>θάλασσα</mark> κάθε μέρα.",
         "translation": "I swim in the sea every day."
       }
     ],
-    "notes": "θ reads as 'th' (as in 'think'); σσ is pronounced as a single 's'"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 9,
@@ -250,23 +299,30 @@
     "gender": "neuter",
     "transliteration": "psári",
     "tags": [
-      "pronunciation"
+      "nature",
+      "food"
     ],
     "examples": [
       {
-        "greek": "Το <mark><b>ψ</b>άρι</mark> κολυμπάει στη θάλασσα.",
+        "greek": "Το <mark>ψάρι</mark> κολυμπάει στη θάλασσα.",
         "translation": "The fish swims in the sea."
       },
       {
-        "greek": "Μου αρέσει να τρώω ψητό <mark><b>ψ</b>άρι</mark>.",
+        "greek": "Μου αρέσει να τρώω ψητό <mark>ψάρι</mark>.",
         "translation": "I like to eat grilled fish."
       },
       {
-        "greek": "Έπιασαν ένα πολύ μεγάλο <mark><b>ψ</b>άρι</mark>.",
+        "greek": "Έπιασαν ένα πολύ μεγάλο <mark>ψάρι</mark>.",
         "translation": "They caught a very big fish."
       }
     ],
-    "notes": "The plural form is τα ψάρια (ta psária).. ψ reads as 'ps'"
+    "notes": "The plural form is τα ψάρια (ta psária).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 10,
@@ -298,7 +354,13 @@
         "translation": "I spoke with him."
       }
     ],
-    "notes": "Changes form for gender and case (αυτός/αυτή/αυτό)."
+    "notes": "Changes form for gender and case (αυτός/αυτή/αυτό).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 11,
@@ -328,7 +390,13 @@
         "translation": "I drink a lot of water."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 12,
@@ -359,7 +427,13 @@
         "translation": "He wrote a book."
       }
     ],
-    "notes": "Regular type A verb."
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 13,
@@ -389,7 +463,13 @@
         "translation": "I live in the city."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 14,
@@ -419,7 +499,13 @@
         "translation": "The town is very small."
       }
     ],
-    "notes": "Changes endings (μικρός/μικρή/μικρό) for gender."
+    "notes": "Changes endings (μικρός/μικρή/μικρό) for gender.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 15,
@@ -449,7 +535,13 @@
         "translation": "Who said it? You (did)!"
       }
     ],
-    "notes": "Subject pronoun (singular, informal)."
+    "notes": "Subject pronoun (singular, informal).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 16,
@@ -479,7 +571,13 @@
         "translation": "I like cats."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 17,
@@ -510,7 +608,13 @@
         "translation": "We want to speak with the manager."
       }
     ],
-    "notes": "Type B verb (contracted)."
+    "notes": "Type B verb (contracted).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 18,
@@ -523,23 +627,30 @@
     "gender": "neuter",
     "transliteration": "déntro",
     "tags": [
-      "pronunciation"
+      "nature",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Υπάρχει ένα μεγάλο <mark>δέ<b>ντ</b>ρο</mark> στον κήπο.",
+        "greek": "Υπάρχει ένα μεγάλο <mark>δέντρο</mark> στον κήπο.",
         "translation": "There is a big tree in the garden."
       },
       {
-        "greek": "Κάθομαι κάτω από το <mark>δέ<b>ντ</b>ρο</mark>.",
+        "greek": "Κάθομαι κάτω από το <mark>δέντρο</mark>.",
         "translation": "I am sitting under the tree."
       },
       {
-        "greek": "Τα <mark>δέ<b>ντ</b>ρα</mark> είναι πράσινα το καλοκαίρι.",
+        "greek": "Τα <mark>δέντρα</mark> είναι πράσινα το καλοκαίρι.",
         "translation": "The trees are green in the summer."
       }
     ],
-    "notes": "ντ reads as 'nd' inside a word"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 19,
@@ -569,7 +680,13 @@
         "translation": "I like beautiful music."
       }
     ],
-    "notes": "Changes endings (όμορφος/όμορφη/όμορφο) for gender."
+    "notes": "Changes endings (όμορφος/όμορφη/όμορφο) for gender.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 20,
@@ -582,23 +699,30 @@
     "gender": null,
     "transliteration": "allá",
     "tags": [
-      "pronunciation"
+      "grammar",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Θέλω να πάω, <mark>α<b>λλ</b>ά</mark> δεν μπορώ.",
+        "greek": "Θέλω να πάω, <mark>αλλά</mark> δεν μπορώ.",
         "translation": "I want to go, but I can't."
       },
       {
-        "greek": "Είναι ακριβό, <mark>α<b>λλ</b>ά</mark> καλό.",
+        "greek": "Είναι ακριβό, <mark>αλλά</mark> καλό.",
         "translation": "It is expensive, but good."
       },
       {
-        "greek": "Δεν είναι μπλε, <mark>α<b>λλ</b>ά</mark> πράσινο.",
+        "greek": "Δεν είναι μπλε, <mark>αλλά</mark> πράσινο.",
         "translation": "It is not blue, but green."
       }
     ],
-    "notes": "Conjunction.. λλ is pronounced as a single 'l'"
+    "notes": "Conjunction.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 21,
@@ -628,7 +752,13 @@
         "translation": "You have to feed the dog."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 22,
@@ -658,7 +788,13 @@
         "translation": "We need four chairs for the table."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 23,
@@ -689,7 +825,13 @@
         "translation": "They bought a big house."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 24,
@@ -702,23 +844,30 @@
     "gender": "neuter",
     "transliteration": "vounó",
     "tags": [
-      "pronunciation"
+      "nature",
+      "places"
     ],
     "examples": [
       {
-        "greek": "Το <mark>β<b>ου</b>νό</mark> είναι καλυμμένο με χιόνι.",
+        "greek": "Το <mark>βουνό</mark> είναι καλυμμένο με χιόνι.",
         "translation": "The mountain is covered with snow."
       },
       {
-        "greek": "Μας αρέσει να περπατάμε στα <mark>β<b>ου</b>νά</mark>.",
+        "greek": "Μας αρέσει να περπατάμε στα <mark>βουνά</mark>.",
         "translation": "We like to walk in the mountains."
       },
       {
-        "greek": "Η θέα από το <mark>β<b>ου</b>νό</mark> είναι φανταστική.",
+        "greek": "Η θέα από το <mark>βουνό</mark> είναι φανταστική.",
         "translation": "The view from the mountain is fantastic."
       }
     ],
-    "notes": "ου reads as 'u', as ου is always pronounced 'u' in Modern Greek"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 25,
@@ -749,7 +898,13 @@
         "translation": "I need oil for frying."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 26,
@@ -779,7 +934,13 @@
         "translation": "Pomegranate juice is very healthy."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 27,
@@ -809,7 +970,13 @@
         "translation": "I saw two boys in the park."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 28,
@@ -840,7 +1007,13 @@
         "translation": "Her husband works at the bank."
       }
     ],
-    "notes": "Also commonly spelled as 'άντρας'."
+    "notes": "Also commonly spelled as 'άντρας'.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 29,
@@ -870,7 +1043,13 @@
         "translation": "The family eats together every Sunday."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 30,
@@ -883,23 +1062,30 @@
     "gender": "neuter",
     "transliteration": "korítsi",
     "tags": [
-      "pronunciation"
+      "people",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Το <mark>κορί<b>τσ</b>ι</mark> φοράει ένα κόκκινο φόρεμα.",
+        "greek": "Το <mark>κορίτσι</mark> φοράει ένα κόκκινο φόρεμα.",
         "translation": "The girl is wearing a red dress."
       },
       {
-        "greek": "Εκείνο το <mark>κορί<b>τσ</b>ι</mark> είναι η αδερφή μου.",
+        "greek": "Εκείνο το <mark>κορίτσι</mark> είναι η αδερφή μου.",
         "translation": "That girl is my sister."
       },
       {
-        "greek": "Τα <mark>κορί<b>τσ</b>ια</mark> διαβάζουν βιβλία.",
+        "greek": "Τα <mark>κορίτσια</mark> διαβάζουν βιβλία.",
         "translation": "The girls are reading books."
       }
     ],
-    "notes": "τσ reads as 'ts'"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 31,
@@ -930,7 +1116,13 @@
         "translation": "This is a photo of my grandmother."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 32,
@@ -961,7 +1153,13 @@
         "translation": "His wife is a doctor."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 33,
@@ -991,7 +1189,13 @@
         "translation": "They have two sons."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 34,
@@ -1021,7 +1225,13 @@
         "translation": "The fathers are playing with their children."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 35,
@@ -1051,7 +1261,13 @@
         "translation": "They have one daughter and one son."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 36,
@@ -1081,7 +1297,13 @@
         "translation": "Mothers love their children."
       }
     ],
-    "notes": "Often informally referred to as 'μαμά' (mom)."
+    "notes": "Often informally referred to as 'μαμά' (mom).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 37,
@@ -1112,7 +1334,13 @@
         "translation": "I like to read on the beach."
       }
     ],
-    "notes": "Regular type A verb."
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 38,
@@ -1143,7 +1371,13 @@
         "translation": "I like to walk on the beach in the morning."
       }
     ],
-    "notes": "Regular feminine noun."
+    "notes": "Regular feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 39,
@@ -1156,23 +1390,30 @@
     "gender": null,
     "transliteration": "nai",
     "tags": [
-      "pronunciation"
+      "basics",
+      "questions"
     ],
     "examples": [
       {
-        "greek": "<mark>Ν<b>αι</b></mark>, θέλω έναν καφέ, παρακαλώ.",
+        "greek": "<mark>Ναι</mark>, θέλω έναν καφέ, παρακαλώ.",
         "translation": "Yes, I want a coffee, please."
       },
       {
-        "greek": "Είπες <mark>ν<b>αι</b></mark> στην πρότασή μου;",
+        "greek": "Είπες <mark>ναι</mark> στην πρότασή μου;",
         "translation": "Did you say yes to my proposal?"
       },
       {
-        "greek": "<mark>Ν<b>αι</b></mark>, είμαι από την Ελλάδα.",
+        "greek": "<mark>Ναι</mark>, είμαι από την Ελλάδα.",
         "translation": "Yes, I am from Greece."
       }
     ],
-    "notes": "αι reads as 'e', as αι is always pronounced 'e' in Modern Greek"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 40,
@@ -1202,7 +1443,13 @@
         "translation": "Can you come? No, I can't today."
       }
     ],
-    "notes": "Used to express negation."
+    "notes": "Used to express negation.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 41,
@@ -1233,7 +1480,13 @@
         "translation": "It's okay, making a mistake is human."
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 42,
@@ -1247,23 +1500,30 @@
     "gender": null,
     "transliteration": "efcharistó",
     "tags": [
-      "pronunciation"
+      "basics",
+      "feelings"
     ],
     "examples": [
       {
-        "greek": "Σας <mark><b>ευ</b>χαριστώ</mark> πολύ για τη βοήθειά σας.",
+        "greek": "Σας <mark>ευχαριστώ</mark> πολύ για τη βοήθειά σας.",
         "translation": "Thank you very much for your help."
       },
       {
-        "greek": "<mark><b>Ευ</b>χαριστώ</mark> για το δώρο, είναι υπέροχο!",
+        "greek": "<mark>Ευχαριστώ</mark> για το δώρο, είναι υπέροχο!",
         "translation": "Thank you for the gift, it's wonderful!"
       },
       {
-        "greek": "Θέλω να σας <mark><b>ευ</b>χαριστήσω</mark> όλους για την παρουσία σας.",
+        "greek": "Θέλω να σας <mark>ευχαριστήσω</mark> όλους για την παρουσία σας.",
         "translation": "I want to thank you all for your presence."
       }
     ],
-    "notes": "ευ reads as 'ef', as ευ is followed by χ (non-vibrating), so υ becomes 'f'"
+    "notes": "Regular verb, often used impersonally as 'ευχαριστώ' (thank you).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 43,
@@ -1294,7 +1554,13 @@
         "translation": "What can I do for you? How can I help you?"
       }
     ],
-    "notes": "Literally means 'I beg' or 'I request'. Commonly used as 'please' or 'you're welcome'."
+    "notes": "Literally means 'I beg' or 'I request'. Commonly used as 'please' or 'you're welcome'.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 44,
@@ -1324,7 +1590,13 @@
         "translation": "I bought bread from the bakery."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 45,
@@ -1354,7 +1626,13 @@
         "translation": "I will go for a walk with my friend."
       }
     ],
-    "notes": "Common masculine noun."
+    "notes": "Common masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 46,
@@ -1385,7 +1663,13 @@
         "translation": "This is a good book."
       }
     ],
-    "notes": "Adjective, declinable (καλός, καλή, καλό)."
+    "notes": "Adjective, declinable (καλός, καλή, καλό).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 47,
@@ -1398,23 +1682,30 @@
     "gender": "feminine",
     "transliteration": "iméra",
     "tags": [
-      "pronunciation"
+      "time",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Καλημέρα! Έχετε μια υπέροχη <mark><b>η</b>μέρα</mark>.",
+        "greek": "Καλημέρα! Έχετε μια υπέροχη <mark>ημέρα</mark>.",
         "translation": "Good morning! Have a wonderful day."
       },
       {
-        "greek": "Η σημερινή <mark><b>η</b>μέρα</mark> είναι ηλιόλουστη.",
+        "greek": "Η σημερινή <mark>ημέρα</mark> είναι ηλιόλουστη.",
         "translation": "Today's day is sunny."
       },
       {
-        "greek": "Πόσες <mark><b>η</b>μέρες</mark> θα μείνετε στην Ελλάδα;",
+        "greek": "Πόσες <mark>ημέρες</mark> θα μείνετε στην Ελλάδα;",
         "translation": "How many days will you stay in Greece?"
       }
     ],
-    "notes": "η reads as 'i', as η is always pronounced 'i' in Modern Greek"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 48,
@@ -1444,7 +1735,13 @@
         "translation": "I like to read a book at night."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 49,
@@ -1474,7 +1771,13 @@
         "translation": "The city is located next to a river."
       }
     ],
-    "notes": "Common masculine noun."
+    "notes": "Common masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 50,
@@ -1504,7 +1807,13 @@
         "translation": "The abstract design is very modern."
       }
     ],
-    "notes": "Adjective, declinable."
+    "notes": "Adjective, declinable.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 51,
@@ -1535,7 +1844,13 @@
         "translation": "He found happiness in simplicity."
       }
     ],
-    "notes": "ευ reads as 'ef', as ευ is followed by τ (non-vibrating), so υ becomes 'f'"
+    "notes": "Abstract noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 52,
@@ -1565,7 +1880,13 @@
         "translation": "The love for learning is important."
       }
     ],
-    "notes": "Feminine noun."
+    "notes": "Feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 53,
@@ -1596,7 +1917,13 @@
         "translation": "Her life is full of drama."
       }
     ],
-    "notes": "Neuter noun, ending in -μα."
+    "notes": "Neuter noun, ending in -μα.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 54,
@@ -1610,23 +1937,30 @@
     "gender": "neuter",
     "transliteration": "aftokínito",
     "tags": [
-      "pronunciation"
+      "travel",
+      "home"
     ],
     "examples": [
       {
-        "greek": "Έχω ένα καινούργιο <mark><b>αυ</b>τοκίνητο</mark>.",
+        "greek": "Έχω ένα καινούργιο <mark>αυτοκίνητο</mark>.",
         "translation": "I have a new car."
       },
       {
-        "greek": "Το <mark><b>αυ</b>τοκίνητο</mark> είναι παρκαρισμένο έξω.",
+        "greek": "Το <mark>αυτοκίνητο</mark> είναι παρκαρισμένο έξω.",
         "translation": "The car is parked outside."
       },
       {
-        "greek": "Θέλουμε να αγοράσουμε ένα ηλεκτρικό <mark><b>αυ</b>τοκίνητο</mark>.",
+        "greek": "Θέλουμε να αγοράσουμε ένα ηλεκτρικό <mark>αυτοκίνητο</mark>.",
         "translation": "We want to buy an electric car."
       }
     ],
-    "notes": "αυ reads as 'af', as αυ is followed by τ (non-vibrating), so υ becomes 'f'"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 55,
@@ -1657,7 +1991,13 @@
         "translation": "The bicycle is an ecological means of transport."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 56,
@@ -1688,7 +2028,13 @@
         "translation": "We will go for coffee in the morning."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 57,
@@ -1719,7 +2065,13 @@
         "translation": "We had a wonderful dinner with friends last night."
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 58,
@@ -1750,7 +2102,13 @@
         "translation": "I am preparing a light meal for the evening."
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 59,
@@ -1781,7 +2139,13 @@
         "translation": "The food was tasty."
       }
     ],
-    "notes": "Adjective, declinable (νόστιμος, νόστιμη, νόστιμο)."
+    "notes": "Adjective, declinable (νόστιμος, νόστιμη, νόστιμο).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 60,
@@ -1811,7 +2175,13 @@
         "translation": "I would like a baked potato with butter."
       }
     ],
-    "notes": "Regular feminine noun, plural: πατάτες."
+    "notes": "Regular feminine noun, plural: πατάτες.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 61,
@@ -1842,7 +2212,13 @@
         "translation": "Spinach pie is my favorite."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 62,
@@ -1872,7 +2248,13 @@
         "translation": "Can you pass me the pepper, please?"
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 63,
@@ -1903,7 +2285,13 @@
         "translation": "He washed all the dishes after dinner."
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 64,
@@ -1933,7 +2321,13 @@
         "translation": "Horses are very beautiful animals."
       }
     ],
-    "notes": "Neuter noun."
+    "notes": "Neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 65,
@@ -1964,7 +2358,13 @@
         "translation": "Many animals live in the forest."
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 66,
@@ -1994,7 +2394,13 @@
         "translation": "I drink coffee every morning."
       }
     ],
-    "notes": "Common masculine noun."
+    "notes": "Common masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 67,
@@ -2025,7 +2431,13 @@
         "translation": "The baby drinks its milk quickly."
       }
     ],
-    "notes": "Regular type A verb."
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 68,
@@ -2055,7 +2467,13 @@
         "translation": "I like juice from fresh lemons."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 69,
@@ -2086,7 +2504,13 @@
         "translation": "I want to buy a new hat."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 70,
@@ -2117,7 +2541,13 @@
         "translation": "I wear gloves when I wash the dishes."
       }
     ],
-    "notes": "Neuter noun. The plural form is γάντια."
+    "notes": "Neuter noun. The plural form is γάντια.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 71,
@@ -2147,7 +2577,13 @@
         "translation": "I like roast duck with orange."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 72,
@@ -2160,23 +2596,30 @@
     "gender": "neuter",
     "transliteration": "poulí",
     "tags": [
-      "pronunciation"
+      "nature",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Το <mark>π<b>ου</b>λί</mark> κελαηδάει στο δέντρο.",
+        "greek": "Το <mark>πουλί</mark> κελαηδάει στο δέντρο.",
         "translation": "The bird is singing in the tree."
       },
       {
-        "greek": "Βλέπω ένα όμορφο <mark>π<b>ου</b>λί</mark> στον ουρανό.",
+        "greek": "Βλέπω ένα όμορφο <mark>πουλί</mark> στον ουρανό.",
         "translation": "I see a beautiful bird in the sky."
       },
       {
-        "greek": "Τα <mark>π<b>ου</b>λιά</mark> πετούν ψηλά.",
+        "greek": "Τα <mark>πουλιά</mark> πετούν ψηλά.",
         "translation": "The birds fly high."
       }
     ],
-    "notes": "Regular neuter noun.. ου reads as 'u', as ου is always pronounced 'u' in Modern Greek"
+    "notes": "Regular neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 73,
@@ -2205,7 +2648,13 @@
         "translation": "I saw a small reptile in our garden."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 74,
@@ -2235,7 +2684,13 @@
         "translation": "He is wearing a white shirt today."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 75,
@@ -2265,7 +2720,13 @@
         "translation": "She is wearing a red skirt today."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 76,
@@ -2278,23 +2739,30 @@
     "gender": "feminine",
     "transliteration": "bóta",
     "tags": [
-      "pronunciation"
+      "shopping",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Αγόρασα μια καινούργια <mark><b>μπ</b>ότα</mark> για το χειμώνα.",
+        "greek": "Αγόρασα μια καινούργια <mark>μπότα</mark> για το χειμώνα.",
         "translation": "I bought a new boot for winter."
       },
       {
-        "greek": "Οι <mark><b>μπ</b>ότες</mark> της είναι πολύ κομψές.",
+        "greek": "Οι <mark>μπότες</mark> της είναι πολύ κομψές.",
         "translation": "Her boots are very elegant."
       },
       {
-        "greek": "Χρειάζομαι αδιάβροχες <mark><b>μπ</b>ότες</mark> για την πεζοπορία.",
+        "greek": "Χρειάζομαι αδιάβροχες <mark>μπότες</mark> για την πεζοπορία.",
         "translation": "I need waterproof boots for hiking."
       }
     ],
-    "notes": "Feminine noun.. μπ reads as 'b' at the start of a word"
+    "notes": "Feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 77,
@@ -2324,7 +2792,13 @@
         "translation": "I bought fresh peaches from the market."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 78,
@@ -2354,7 +2828,13 @@
         "translation": "She is my younger sister."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 79,
@@ -2384,7 +2864,13 @@
         "translation": "Can I have a cheese sandwich?"
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 80,
@@ -2415,7 +2901,13 @@
         "translation": "This wallet is very practical."
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 81,
@@ -2445,7 +2937,13 @@
         "translation": "The cat caught the mouse."
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 82,
@@ -2474,7 +2972,13 @@
         "translation": "The pelican caught a fish."
       }
     ],
-    "notes": "Regular masculine noun."
+    "notes": "Regular masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 83,
@@ -2505,7 +3009,13 @@
         "translation": "Sea turtles are a protected species."
       }
     ],
-    "notes": "Regular feminine noun."
+    "notes": "Regular feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 84,
@@ -2536,7 +3046,13 @@
         "translation": "He/She is wearing a red t-shirt today."
       }
     ],
-    "notes": "Diminutive of μπλούζα (blouse)."
+    "notes": "Diminutive of μπλούζα (blouse).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 85,
@@ -2565,7 +3081,13 @@
         "translation": "The eagle is a strong bird."
       }
     ],
-    "notes": "Regular masculine noun."
+    "notes": "Regular masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 86,
@@ -2595,7 +3117,13 @@
         "translation": "Crabs live in the sea."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 87,
@@ -2626,7 +3154,13 @@
         "translation": "For carnival, I will wear a funny costume."
       }
     ],
-    "notes": "Feminine noun, plural: στολές."
+    "notes": "Feminine noun, plural: στολές.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 88,
@@ -2657,7 +3191,13 @@
         "translation": "We must protect our skin from the sun."
       }
     ],
-    "notes": "Neuter noun, ending in -μα."
+    "notes": "Neuter noun, ending in -μα.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 89,
@@ -2687,7 +3227,13 @@
         "translation": "The caterpillar transforms into a butterfly."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 90,
@@ -2718,7 +3264,13 @@
         "translation": "The <mark>new</mark> car is red."
       }
     ],
-    "notes": "Adjective, declinable (νέος, νέα, νέο)."
+    "notes": "Adjective, declinable (νέος, νέα, νέο).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 91,
@@ -2749,7 +3301,13 @@
         "translation": "The last chapter of the book was exciting."
       }
     ],
-    "notes": "Adjective, declinable."
+    "notes": "Adjective, declinable.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 92,
@@ -2779,7 +3337,13 @@
         "translation": "The first thing I do in the morning is drink coffee."
       }
     ],
-    "notes": "Ordinal number adjective."
+    "notes": "Ordinal number adjective.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 93,
@@ -2809,7 +3373,13 @@
         "translation": "The river is long."
       }
     ],
-    "notes": "Adjective with three endings (μακρύς, μακριά, μακρύ)."
+    "notes": "Adjective with three endings (μακρύς, μακριά, μακρύ).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 94,
@@ -2840,7 +3410,13 @@
         "translation": "Every year we visit our grandparents."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 95,
@@ -2871,7 +3447,13 @@
         "translation": "Don't let fear stop you."
       }
     ],
-    "notes": "Common masculine noun."
+    "notes": "Common masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 96,
@@ -2902,7 +3484,13 @@
         "translation": "There are no problems, only solutions."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 97,
@@ -2933,7 +3521,13 @@
         "translation": "A new idea came to me for the project."
       }
     ],
-    "notes": "Feminine noun."
+    "notes": "Feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 98,
@@ -2963,7 +3557,13 @@
         "translation": "The music is loud."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 99,
@@ -2994,7 +3594,13 @@
         "translation": "The phone is ringing loudly."
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 100,
@@ -3024,7 +3630,13 @@
         "translation": "I bought a bar of chocolate."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 101,
@@ -3037,23 +3649,30 @@
     "gender": "neuter",
     "transliteration": "angoúri",
     "tags": [
-      "pronunciation"
+      "food",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Θέλω ένα <mark>α<b>γγ</b>ούρι</mark> για τη σαλάτα.",
+        "greek": "Θέλω ένα <mark>αγγούρι</mark> για τη σαλάτα.",
         "translation": "I want a cucumber for the salad."
       },
       {
-        "greek": "Το <mark>α<b>γγ</b>ούρι</mark> είναι δροσερό.",
+        "greek": "Το <mark>αγγούρι</mark> είναι δροσερό.",
         "translation": "The cucumber is refreshing."
       },
       {
-        "greek": "Μου αρέσουν τα <mark>α<b>γγ</b>ούρια</mark> με γιαούρτι.",
+        "greek": "Μου αρέσουν τα <mark>αγγούρια</mark> με γιαούρτι.",
         "translation": "I like cucumbers with yogurt."
       }
     ],
-    "notes": "Regular neuter noun.. γγ reads as 'ng' (as in 'finger')"
+    "notes": "Regular neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 102,
@@ -3084,7 +3703,13 @@
         "translation": "His mind was a chaos of thoughts."
       }
     ],
-    "notes": "Indeclinable neuter noun."
+    "notes": "Indeclinable neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 103,
@@ -3115,7 +3740,13 @@
         "translation": "The academy offers many interesting courses."
       }
     ],
-    "notes": "Feminine noun, from ancient Greek."
+    "notes": "Feminine noun, from ancient Greek.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 104,
@@ -3146,7 +3777,13 @@
         "translation": "The people voted for a new government."
       }
     ],
-    "notes": "Regular feminine noun."
+    "notes": "Regular feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 105,
@@ -3177,7 +3814,13 @@
         "translation": "The company offers good services."
       }
     ],
-    "notes": "Regular feminine noun."
+    "notes": "Regular feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 106,
@@ -3207,7 +3850,13 @@
         "translation": "Can you write the number here?"
       }
     ],
-    "notes": "Masculine noun."
+    "notes": "Masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 107,
@@ -3238,7 +3887,13 @@
         "translation": "We will form a team for the project."
       }
     ],
-    "notes": "Feminine noun, ending in -α."
+    "notes": "Feminine noun, ending in -α.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 108,
@@ -3269,7 +3924,13 @@
         "translation": "It is a known fact that Greece has a lot of history."
       }
     ],
-    "notes": "Irregular neuter noun, plural: γεγονότα."
+    "notes": "Irregular neuter noun, plural: γεγονότα.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 109,
@@ -3300,7 +3961,13 @@
         "translation": "I like Greek food."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 110,
@@ -3331,7 +3998,13 @@
         "translation": "We must answer the challenge."
       }
     ],
-    "notes": "Regular type A verb."
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 111,
@@ -3361,7 +4034,13 @@
         "translation": "The question is very interesting."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 112,
@@ -3392,7 +4071,13 @@
         "translation": "Marriage is a sacred union."
       }
     ],
-    "notes": "Common masculine noun."
+    "notes": "Common masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 113,
@@ -3423,7 +4108,13 @@
         "translation": "Puppies are very cute."
       }
     ],
-    "notes": "Neuter noun."
+    "notes": "Neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 114,
@@ -3453,7 +4144,13 @@
         "translation": "Elephants have a long trunk."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 115,
@@ -3467,7 +4164,8 @@
     "gender": null,
     "transliteration": "foró",
     "tags": [
-      "pronunciation"
+      "routine",
+      "basics"
     ],
     "examples": [
       {
@@ -3483,7 +4181,13 @@
         "translation": "What are you wearing for the party?"
       }
     ],
-    "notes": "Regular type A verb.. ω reads as 'o', identical to ο in Modern Greek"
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 116,
@@ -3514,7 +4218,13 @@
         "translation": "Leave your coat on the hanger."
       }
     ],
-    "notes": "Indeclinable noun."
+    "notes": "Indeclinable noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 117,
@@ -3544,7 +4254,13 @@
         "translation": "We drink wine with dinner."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 118,
@@ -3574,7 +4290,13 @@
         "translation": "This insect is very small."
       }
     ],
-    "notes": "Regular neuter noun."
+    "notes": "Regular neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 119,
@@ -3605,7 +4327,13 @@
         "translation": "The baby smiled at its mother."
       }
     ],
-    "notes": "Neuter noun."
+    "notes": "Neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 120,
@@ -3636,7 +4364,13 @@
         "translation": "I bought blue trousers."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 121,
@@ -3649,23 +4383,30 @@
     "gender": "masculine",
     "transliteration": "lýkos",
     "tags": [
-      "pronunciation"
+      "nature",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Ο <mark>λ<b>ύ</b>κος</mark> είναι ένα άγριο ζώο.",
+        "greek": "Ο <mark>λύκος</mark> είναι ένα άγριο ζώο.",
         "translation": "The wolf is a wild animal."
       },
       {
-        "greek": "Είδαμε έναν <mark>λ<b>ύ</b>κο</mark> στο δάσος.",
+        "greek": "Είδαμε έναν <mark>λύκο</mark> στο δάσος.",
         "translation": "We saw a wolf in the forest."
       },
       {
-        "greek": "Οι <mark>λ<b>ύ</b>κοι</mark> κυνηγούν σε αγέλες.",
+        "greek": "Οι <mark>λύκοι</mark> κυνηγούν σε αγέλες.",
         "translation": "Wolves hunt in packs."
       }
     ],
-    "notes": "Regular masculine noun.. υ is standalone (preceded by λ, not α or ε), so it's simply the vowel 'i'"
+    "notes": "Regular masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 122,
@@ -3695,7 +4436,13 @@
         "translation": "I like avocado toast."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 123,
@@ -3726,7 +4473,13 @@
         "translation": "I spoke to her about the trip."
       }
     ],
-    "notes": "Feminine demonstrative pronoun/adjective. 'Αυτήν' is the accusative singular form."
+    "notes": "Feminine demonstrative pronoun/adjective. 'Αυτήν' is the accusative singular form.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 124,
@@ -3757,7 +4510,13 @@
         "translation": "He will tie the package before he sends it."
       }
     ],
-    "notes": "Regular type A verb."
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 126,
@@ -3787,7 +4546,13 @@
         "translation": "Shall we go for ice cream after dinner?"
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 127,
@@ -3817,7 +4582,13 @@
         "translation": "Do you want a fruit for dessert?"
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 128,
@@ -3847,7 +4618,13 @@
         "translation": "Bears eat honey."
       }
     ],
-    "notes": "Regular feminine noun."
+    "notes": "Regular feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 129,
@@ -3876,7 +4653,13 @@
         "translation": "Tigers are big cats."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 132,
@@ -3906,7 +4689,13 @@
         "translation": "Zebras are wild animals."
       }
     ],
-    "notes": "Feminine noun."
+    "notes": "Feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 134,
@@ -3936,7 +4725,13 @@
         "translation": "Humans are also mammals."
       }
     ],
-    "notes": "Regular neuter noun."
+    "notes": "Regular neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 135,
@@ -3965,7 +4760,13 @@
         "translation": "Giraffes are impressive animals."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 136,
@@ -3996,7 +4797,13 @@
         "translation": "We don't have any food at all."
       }
     ],
-    "notes": "Basic verb, often used to express possession or existence."
+    "notes": "Basic verb, often used to express possession or existence.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 137,
@@ -4010,23 +4817,30 @@
     "gender": null,
     "transliteration": "eímai",
     "tags": [
-      "pronunciation"
+      "basics",
+      "grammar"
     ],
     "examples": [
       {
-        "greek": "Εγώ <mark>είμ<b>αι</b></mark> από την Ελλάδα.",
+        "greek": "Εγώ <mark>είμαι</mark> από την Ελλάδα.",
         "translation": "I am from Greece."
       },
       {
-        "greek": "Εσύ <mark>είσ<b>αι</b></mark> καλά;",
+        "greek": "Εσύ <mark>είσαι</mark> καλά;",
         "translation": "Are you well?"
       },
       {
-        "greek": "Αυτός <mark>είν<b>αι</b></mark> ο αδελφός μου.",
+        "greek": "Αυτός <mark>είναι</mark> ο αδελφός μου.",
         "translation": "He is my brother."
       }
     ],
-    "notes": "Irregular verb, one of the most common in Greek.. αι reads as 'e', as αι is always pronounced 'e' in Modern Greek"
+    "notes": "Irregular verb, one of the most common in Greek.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 138,
@@ -4059,7 +4873,13 @@
         "translation": "He always does his job well."
       }
     ],
-    "notes": "Regular type A verb."
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 139,
@@ -4090,7 +4910,13 @@
         "translation": "He often goes to the beach in the summer."
       }
     ],
-    "notes": "Regular type A verb. The subjunctive form is 'πάω'."
+    "notes": "Regular type A verb. The subjunctive form is 'πάω'.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 140,
@@ -4121,7 +4947,13 @@
         "translation": "We will make the decision tomorrow."
       }
     ],
-    "notes": "Regular type A verb."
+    "notes": "Regular type A verb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 141,
@@ -4151,7 +4983,13 @@
         "translation": "There are many newspapers in Greece."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 142,
@@ -4181,7 +5019,13 @@
         "translation": "I saw a small spider on the wall."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 143,
@@ -4211,7 +5055,13 @@
         "translation": "I don't know when it will finish."
       }
     ],
-    "notes": "Interrogative adverb."
+    "notes": "Interrogative adverb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 144,
@@ -4242,7 +5092,13 @@
         "translation": "I don't know what to say."
       }
     ],
-    "notes": "Interrogative pronoun."
+    "notes": "Interrogative pronoun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 145,
@@ -4272,7 +5128,13 @@
         "translation": "How do you say this in Greek?"
       }
     ],
-    "notes": "Interrogative adverb."
+    "notes": "Interrogative adverb.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 146,
@@ -4285,23 +5147,30 @@
     "gender": "masculine",
     "transliteration": "chymós",
     "tags": [
-      "pronunciation"
+      "food",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Θέλω έναν <mark>χ<b>υ</b>μό</mark> πορτοκάλι, παρακαλώ.",
+        "greek": "Θέλω έναν <mark>χυμό</mark> πορτοκάλι, παρακαλώ.",
         "translation": "I want an orange juice, please."
       },
       {
-        "greek": "Ο <mark>χ<b>υ</b>μός</mark> μήλου είναι πολύ δροσιστικός.",
+        "greek": "Ο <mark>χυμός</mark> μήλου είναι πολύ δροσιστικός.",
         "translation": "Apple juice is very refreshing."
       },
       {
-        "greek": "Πίνω <mark>χ<b>υ</b>μό</mark> κάθε πρωί.",
+        "greek": "Πίνω <mark>χυμό</mark> κάθε πρωί.",
         "translation": "I drink juice every morning."
       }
     ],
-    "notes": "υ is standalone (preceded by χ, not α or ε), so it's simply the vowel 'i'"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 147,
@@ -4314,30 +5183,38 @@
     "gender": "neuter",
     "transliteration": "avgó",
     "tags": [
-      "pronunciation"
+      "food",
+      "home"
     ],
     "examples": [
       {
-        "greek": "Θέλω ένα <mark><b>αυ</b>γό</mark> για πρωινό.",
+        "greek": "Θέλω ένα <mark>αυγό</mark> για πρωινό.",
         "translation": "I want an egg for breakfast."
       },
       {
-        "greek": "Τα <mark><b>αυ</b>γά</mark> είναι θρεπτικά.",
+        "greek": "Τα <mark>αυγά</mark> είναι θρεπτικά.",
         "translation": "Eggs are nutritious."
       },
       {
-        "greek": "Πόσο κοστίζει ένα <mark><b>αυ</b>γό</mark>;",
+        "greek": "Πόσο κοστίζει ένα <mark>αυγό</mark>;",
         "translation": "How much does an egg cost?"
       }
     ],
-    "notes": "αυ reads as 'av', as αυ is followed by γ (vibrating), so υ becomes 'v'"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 148,
     "greek_word": "κεφτές",
     "article": "ο",
     "translation": [
-      "meatball"
+      "meatball",
+      "meatballs"
     ],
     "part_of_speech": "noun",
     "gender": "masculine",
@@ -4360,7 +5237,13 @@
         "translation": "Grandma's meatballs are the best."
       }
     ],
-    "notes": "The word is commonly used in its plural form, κεφτέδες."
+    "notes": "The word is commonly used in its plural form, κεφτέδες.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 149,
@@ -4374,7 +5257,8 @@
     "gender": null,
     "transliteration": "giatí",
     "tags": [
-      "pronunciation"
+      "questions",
+      "basics"
     ],
     "examples": [
       {
@@ -4382,7 +5266,7 @@
         "translation": "Why were you late?"
       },
       {
-        "greek": "Άργησα <mark><b>γι</b>ατί</mark> είχε κίνηση.",
+        "greek": "Άργησα <mark>γιατί</mark> είχε κίνηση.",
         "translation": "I was late because there was traffic."
       },
       {
@@ -4390,7 +5274,13 @@
         "translation": "Why didn't you tell me anything?"
       }
     ],
-    "notes": "Functions as both an interrogative adverb ('why') and a conjunction ('because').. γι reads as 'y' before a vowel"
+    "notes": "Functions as both an interrogative adverb ('why') and a conjunction ('because').",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 150,
@@ -4421,7 +5311,13 @@
         "translation": "How much water do you want to drink?"
       }
     ],
-    "notes": "Interrogative adjective, inflects for gender and number."
+    "notes": "Interrogative adjective, inflects for gender and number.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 151,
@@ -4451,7 +5347,13 @@
         "translation": "Garlic is healthy."
       }
     ],
-    "notes": "Common neuter noun."
+    "notes": "Common neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 152,
@@ -4463,25 +5365,32 @@
     ],
     "part_of_speech": "noun",
     "gender": "masculine",
-    "transliteration": "babás",
+    "transliteration": "bampás",
     "tags": [
-      "pronunciation"
+      "people",
+      "basics"
     ],
     "examples": [
       {
-        "greek": "Ο <mark><b>μπ</b>α<b>μπ</b>άς</mark> μου είναι πολύ καλός.",
+        "greek": "Ο <mark>μπαμπάς</mark> μου είναι πολύ καλός.",
         "translation": "My dad is very kind."
       },
       {
-        "greek": "Πάω με τον <mark><b>μπ</b>α<b>μπ</b>ά</mark> μου για ψώνια.",
+        "greek": "Πάω με τον <mark>μπαμπά</mark> μου για ψώνια.",
         "translation": "I'm going shopping with my dad."
       },
       {
-        "greek": "Ο <mark><b>μπ</b>α<b>μπ</b>άς</mark> και η μαμά μου είναι στο σπίτι.",
+        "greek": "Ο <mark>μπαμπάς</mark> και η μαμά μου είναι στο σπίτι.",
         "translation": "My dad and mom are at home."
       }
     ],
-    "notes": "Common informal term for father. Declines like a regular masculine noun ending in -ας.. μπ reads as 'b' at the start of a word"
+    "notes": "Common informal term for father. Declines like a regular masculine noun ending in -ας.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 153,
@@ -4511,7 +5420,13 @@
         "translation": "The godfather bought a gift for the child."
       }
     ],
-    "notes": "Regular masculine noun."
+    "notes": "Regular masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 154,
@@ -4542,7 +5457,13 @@
         "translation": "The woolen sweater is comfortable and soft."
       }
     ],
-    "notes": "Adjective, declension type -ος, -α, -ο."
+    "notes": "Adjective, declension type -ος, -α, -ο.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 155,
@@ -4572,7 +5493,13 @@
         "translation": "I am cooking pork for dinner."
       }
     ],
-    "notes": "Often used as a neuter noun meaning 'pork meat'. It can also function as an adjective meaning 'pork (adj.)'."
+    "notes": "Often used as a neuter noun meaning 'pork meat'. It can also function as an adjective meaning 'pork (adj.)'.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 157,
@@ -4602,7 +5529,13 @@
         "translation": "Strawberries are red and sweet."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 158,
@@ -4632,7 +5565,13 @@
         "translation": "We ordered two pizzas for dinner."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 159,
@@ -4663,7 +5602,13 @@
         "translation": "The coffee is hot."
       }
     ],
-    "notes": "Indeclinable noun."
+    "notes": "Indeclinable noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 160,
@@ -4693,7 +5638,13 @@
         "translation": "I bought a whole chicken from the market."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 161,
@@ -4723,7 +5674,13 @@
         "translation": "Don't forget to put salt in the salad."
       }
     ],
-    "notes": "Neuter noun."
+    "notes": "Neuter noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 162,
@@ -4753,7 +5710,13 @@
         "translation": "Children must respect their parents."
       }
     ],
-    "notes": "This noun is always used in the plural form."
+    "notes": "This noun is always used in the plural form.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 163,
@@ -4783,7 +5746,13 @@
         "translation": "I bought fresh milk from the supermarket."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 164,
@@ -4814,7 +5783,13 @@
         "translation": "I am cooking rice for dinner."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 165,
@@ -4844,7 +5819,13 @@
         "translation": "There are many interesting museums in the city."
       }
     ],
-    "notes": null
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 166,
@@ -4874,7 +5855,13 @@
         "translation": "I like modern architecture."
       }
     ],
-    "notes": "Feminine noun."
+    "notes": "Feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 167,
@@ -4888,7 +5875,8 @@
     "gender": null,
     "transliteration": "geia sas",
     "tags": [
-      "pronunciation"
+      "basics",
+      "people"
     ],
     "examples": [
       {
@@ -4896,7 +5884,7 @@
         "translation": "Hello, how are you today?"
       },
       {
-        "greek": "Πρέπει να φύγω τώρα, <mark><b>γ</b>εια σας</mark>!",
+        "greek": "Πρέπει να φύγω τώρα, <mark>γεια σας</mark>!",
         "translation": "I have to leave now, goodbye!"
       },
       {
@@ -4904,7 +5892,13 @@
         "translation": "Hello to all my friends!"
       }
     ],
-    "notes": "Common formal greeting, used for both 'hello' and 'goodbye' when addressing one person formally or multiple people.. γ before ε or ι reads as 'y' (as in 'yes')"
+    "notes": "Common formal greeting, used for both 'hello' and 'goodbye' when addressing one person formally or multiple people.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 168,
@@ -4918,23 +5912,30 @@
     "gender": null,
     "transliteration": "antío",
     "tags": [
-      "pronunciation"
+      "basics",
+      "routine"
     ],
     "examples": [
       {
-        "greek": "<mark>Α<b>ντ</b>ίο</mark>, τα λέμε αύριο!",
+        "greek": "<mark>Αντίο</mark>, τα λέμε αύριο!",
         "translation": "Goodbye, see you tomorrow!"
       },
       {
-        "greek": "Πρέπει να φύγω τώρα, <mark>α<b>ντ</b>ίο</mark>!",
+        "greek": "Πρέπει να φύγω τώρα, <mark>αντίο</mark>!",
         "translation": "I have to leave now, goodbye!"
       },
       {
-        "greek": "<mark>Α<b>ντ</b>ίο</mark> σε όλους, καλό βράδυ!",
+        "greek": "<mark>Αντίο</mark> σε όλους, καλό βράδυ!",
         "translation": "Goodbye everyone, good evening!"
       }
     ],
-    "notes": "ντ reads as 'nd' inside a word"
+    "notes": null,
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 169,
@@ -4965,7 +5966,13 @@
         "translation": "The plane landed on the <mark>runway</mark> of the airport."
       }
     ],
-    "notes": "Common masculine noun. Can refer to a corridor, an aisle (e.g., in a plane, train, or supermarket), or a runway."
+    "notes": "Common masculine noun. Can refer to a corridor, an aisle (e.g., in a plane, train, or supermarket), or a runway.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 170,
@@ -4995,7 +6002,13 @@
         "translation": "The soup is ready, come and eat."
       }
     ],
-    "notes": "Regular feminine noun."
+    "notes": "Regular feminine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 171,
@@ -5025,7 +6038,13 @@
         "translation": "Where can I find a taxi here?"
       }
     ],
-    "notes": "Indeclinable noun."
+    "notes": "Indeclinable noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 172,
@@ -5056,7 +6075,13 @@
         "translation": "The product catalog is available online."
       }
     ],
-    "notes": "Regular masculine noun."
+    "notes": "Regular masculine noun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 173,
@@ -5070,6 +6095,7 @@
     "gender": null,
     "transliteration": "midén",
     "tags": [
+      "basics",
       "numbers"
     ],
     "examples": [
@@ -5086,7 +6112,13 @@
         "translation": "The temperature is zero degrees Celsius."
       }
     ],
-    "notes": "Indeclinable numeral/pronoun."
+    "notes": "Indeclinable numeral/pronoun.",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 174,
@@ -5101,6 +6133,7 @@
     "gender": null,
     "transliteration": "éna",
     "tags": [
+      "basics",
       "numbers",
       "grammar"
     ],
@@ -5118,7 +6151,13 @@
         "translation": "This is a book."
       }
     ],
-    "notes": "Can function as a numeral, indefinite article, or pronoun. Inflects for gender and case (ένας, μία/μια, ένα)."
+    "notes": "Can function as a numeral, indefinite article, or pronoun. Inflects for gender and case (ένας, μία/μια, ένα).",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 175,
@@ -5131,24 +6170,31 @@
     "gender": null,
     "transliteration": "dýo",
     "tags": [
-      "pronunciation"
+      "basics",
+      "numbers"
     ],
     "examples": [
       {
-        "greek": "Έχω <mark><b>δ</b>ύο</mark> γάτες στο σπίτι.",
+        "greek": "Έχω <mark>δύο</mark> γάτες στο σπίτι.",
         "translation": "I have two cats at home."
       },
       {
-        "greek": "Θέλω <mark><b>δ</b>ύο</mark> καφέδες, παρακαλώ.",
+        "greek": "Θέλω <mark>δύο</mark> καφέδες, παρακαλώ.",
         "translation": "I want two coffees, please."
       },
       {
-        "greek": "Είναι <mark><b>δ</b>ύο</mark> η ώρα τώρα.",
+        "greek": "Είναι <mark>δύο</mark> η ώρα τώρα.",
         "translation": "It is two o'clock now."
       }
     ],
-    "notes": "Indeclinable numeral.. δ reads as 'th' (as in 'this'), not 'd'",
-    "image_path": "assets/images/175.png"
+    "notes": "Indeclinable numeral.",
+    "image_path": "assets/images/175.png",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 176,
@@ -5161,6 +6207,7 @@
     "gender": null,
     "transliteration": "tría",
     "tags": [
+      "basics",
       "numbers"
     ],
     "examples": [
@@ -5178,7 +6225,13 @@
       }
     ],
     "notes": "Cardinal numeral. The masculine and feminine forms are 'τρεις'.",
-    "image_path": "assets/images/176.png"
+    "image_path": "assets/images/176.png",
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 177,
@@ -5191,7 +6244,9 @@
     "gender": null,
     "transliteration": "téssera",
     "tags": [
-      "numbers"
+      "basics",
+      "numbers",
+      "grammar"
     ],
     "examples": [
       {
@@ -5214,7 +6269,13 @@
       "assets/sounds/177_1.mp3",
       "assets/sounds/177_2.mp3",
       "assets/sounds/177_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 178,
@@ -5227,30 +6288,38 @@
     "gender": null,
     "transliteration": "pénte",
     "tags": [
-      "pronunciation"
+      "basics",
+      "numbers",
+      "routine"
     ],
     "examples": [
       {
-        "greek": "Έχω <mark>πέ<b>ντ</b>ε</mark> βιβλία στην τσάντα μου.",
+        "greek": "Έχω <mark>πέντε</mark> βιβλία στην τσάντα μου.",
         "translation": "I have five books in my bag."
       },
       {
-        "greek": "Η συνάντηση είναι στις <mark>πέ<b>ντ</b>ε</mark> το απόγευμα.",
+        "greek": "Η συνάντηση είναι στις <mark>πέντε</mark> το απόγευμα.",
         "translation": "The meeting is at five in the afternoon."
       },
       {
-        "greek": "Μένω <mark>πέ<b>ντ</b>ε</mark> λεπτά με τα πόδια από εδώ.",
+        "greek": "Μένω <mark>πέντε</mark> λεπτά με τα πόδια από εδώ.",
         "translation": "I live five minutes' walk from here."
       }
     ],
-    "notes": "Pronunciation of ντ: ντ  = \"nd\" inside a word, \"d\" at the start.",
+    "notes": "Cardinal number.",
     "image_path": "assets/images/178.png",
     "sound_path": "assets/sounds/178.mp3",
     "example_sound_paths": [
       "assets/sounds/178_1.mp3",
       "assets/sounds/178_2.mp3",
       "assets/sounds/178_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 179,
@@ -5263,30 +6332,38 @@
     "gender": null,
     "transliteration": "éxi",
     "tags": [
-      "pronunciation"
+      "basics",
+      "numbers",
+      "time"
     ],
     "examples": [
       {
-        "greek": "Έχω <mark>έ<b>ξ</b>ι</mark> βιβλία.",
+        "greek": "Έχω <mark>έξι</mark> βιβλία.",
         "translation": "I have six books."
       },
       {
-        "greek": "Το λεωφορείο φεύγει στις <mark>έ<b>ξ</b>ι</mark> το απόγευμα.",
+        "greek": "Το λεωφορείο φεύγει στις <mark>έξι</mark> το απόγευμα.",
         "translation": "The bus leaves at six in the afternoon."
       },
       {
-        "greek": "Είναι <mark>έ<b>ξ</b>ι</mark> άτομα στην οικογένειά μου.",
+        "greek": "Είναι <mark>έξι</mark> άτομα στην οικογένειά μου.",
         "translation": "There are six people in my family."
       }
     ],
-    "notes": "Cardinal number.. ξ reads as 'ks'",
+    "notes": "Cardinal number.",
     "image_path": "assets/images/179.png",
     "sound_path": "assets/sounds/179.mp3",
     "example_sound_paths": [
       "assets/sounds/179_1.mp3",
       "assets/sounds/179_2.mp3",
       "assets/sounds/179_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 180,
@@ -5324,7 +6401,13 @@
       "assets/sounds/180_1.mp3",
       "assets/sounds/180_2.mp3",
       "assets/sounds/180_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 181,
@@ -5362,7 +6445,13 @@
       "assets/sounds/181_1.mp3",
       "assets/sounds/181_2.mp3",
       "assets/sounds/181_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 182,
@@ -5400,7 +6489,13 @@
       "assets/sounds/182_1.mp3",
       "assets/sounds/182_2.mp3",
       "assets/sounds/182_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 183,
@@ -5437,7 +6532,13 @@
       "assets/sounds/183_1.mp3",
       "assets/sounds/183_2.mp3",
       "assets/sounds/183_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 184,
@@ -5451,30 +6552,38 @@
     "gender": "feminine",
     "transliteration": "foní",
     "tags": [
+      "basics",
+      "people",
       "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Έχει μια δυνατή <mark>φων<b>ή</b></mark>.",
+        "greek": "Έχει μια δυνατή φων<b>ή</b>.",
         "translation": "She has a strong voice."
       },
       {
-        "greek": "Άκουσα μια περίεργη <mark>φων<b>ή</b></mark> από το δωμάτιο.",
+        "greek": "Άκουσα μια περίεργη φων<b>ή</b> από το δωμάτιο.",
         "translation": "I heard a strange sound from the room."
       },
       {
-        "greek": "Μην υψώνεις τη <mark>φων<b>ή</b></mark> σου.",
+        "greek": "Μην υψώνεις τη φων<b>ή</b> σου.",
         "translation": "Don't raise your voice."
       }
     ],
-    "notes": "ή reads as 'i', as ή is always pronounced 'i' in Modern Greek",
+    "notes": "The highlighted letter 'η' is pronounced as an 'ee' sound (as in 'see').",
     "image_path": "assets/images/184.png",
     "sound_path": "assets/sounds/184.mp3",
     "example_sound_paths": [
       "assets/sounds/184_1.mp3",
       "assets/sounds/184_2.mp3",
       "assets/sounds/184_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 185,
@@ -5488,30 +6597,38 @@
     "gender": "feminine",
     "transliteration": "níki",
     "tags": [
+      "feelings",
+      "work",
       "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Η ομάδα μας πέτυχε μια μεγάλη <mark>ν<b>ί</b>κη</mark> χθες.",
+        "greek": "Η ομάδα μας πέτυχε μια μεγάλη ν<b>ί</b>κη χθες.",
         "translation": "Our team achieved a great victory yesterday."
       },
       {
-        "greek": "Είναι μια σημαντική <mark>ν<b>ί</b>κη</mark> για την καριέρα του.",
+        "greek": "Είναι μια σημαντική ν<b>ί</b>κη για την καριέρα του.",
         "translation": "It's an important victory for his career."
       },
       {
-        "greek": "Η <mark>ν<b>ί</b>κη</mark> είναι γλυκιά μετά από σκληρή δουλειά.",
+        "greek": "Η ν<b>ί</b>κη είναι γλυκιά μετά από σκληρή δουλειά.",
         "translation": "Victory is sweet after hard work."
       }
     ],
-    "notes": "ί reads as 'i', as ί is always pronounced 'i' in Modern Greek",
+    "notes": "The highlighted letter 'ι' is pronounced as an 'ee' sound (as in 'see').",
     "image_path": "assets/images/185.png",
     "sound_path": "assets/sounds/185.mp3",
     "example_sound_paths": [
       "assets/sounds/185_1.mp3",
       "assets/sounds/185_2.mp3",
       "assets/sounds/185_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 186,
@@ -5525,30 +6642,38 @@
     "gender": "feminine",
     "transliteration": "istoría",
     "tags": [
+      "time",
+      "entertainment",
       "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Η <mark><b>ι</b>στορία</mark> της Ελλάδας είναι πολύ πλούσια.",
+        "greek": "Η <b>ι</b>στορία της Ελλάδας είναι πολύ πλούσια.",
         "translation": "The history of Greece is very rich."
       },
       {
-        "greek": "Μου αρέσει να διαβάζω <mark><b>ι</b>στορίες</mark> πριν κοιμηθώ.",
+        "greek": "Μου αρέσει να διαβάζω <b>ι</b>στορίες πριν κοιμηθώ.",
         "translation": "I like to read stories before I sleep."
       },
       {
-        "greek": "Ποια είναι η <mark><b>ι</b>στορία</mark> πίσω από αυτό το κτίριο;",
+        "greek": "Ποια είναι η <b>ι</b>στορία πίσω από αυτό το κτίριο;",
         "translation": "What is the story behind this building?"
       }
     ],
-    "notes": "ι reads as 'i', as ι is always pronounced 'i' in Modern Greek",
+    "notes": "The highlighted letter 'ι' is pronounced as an 'ee' sound (as in 'see').",
     "image_path": "assets/images/186.png",
     "sound_path": "assets/sounds/186.mp3",
     "example_sound_paths": [
       "assets/sounds/186_1.mp3",
       "assets/sounds/186_2.mp3",
       "assets/sounds/186_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 187,
@@ -5561,30 +6686,38 @@
     "gender": "feminine",
     "transliteration": "elpída",
     "tags": [
+      "feelings",
+      "basics",
       "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Έχω <mark>ελπ<b>ί</b>δα</mark> για το μέλλον.",
+        "greek": "Έχω ελπ<b>ί</b>δα για το μέλλον.",
         "translation": "I have hope for the future."
       },
       {
-        "greek": "Η <mark>ελπ<b>ί</b>δα</mark> πεθαίνει τελευταία.",
+        "greek": "Η ελπ<b>ί</b>δα πεθαίνει τελευταία.",
         "translation": "Hope dies last."
       },
       {
-        "greek": "Μας δίνει <mark>ελπ<b>ί</b>δα</mark> κάθε μέρα.",
+        "greek": "Μας δίνει ελπ<b>ί</b>δα κάθε μέρα.",
         "translation": "He/She gives us hope every day."
       }
     ],
-    "notes": "ί reads as 'i', as ί is always pronounced 'i' in Modern Greek",
+    "notes": "The highlighted letter 'ι' is pronounced as an 'ee' sound (as in 'see').",
     "image_path": "assets/images/187.png",
     "sound_path": "assets/sounds/187.mp3",
     "example_sound_paths": [
       "assets/sounds/187_1.mp3",
       "assets/sounds/187_2.mp3",
       "assets/sounds/187_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 188,
@@ -5599,30 +6732,37 @@
     "transliteration": "lýsi",
     "tags": [
       "basics",
-      "work"
+      "work",
+      "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Βρήκαμε μια καλή λύση στο πρόβλημα.",
+        "greek": "Βρήκαμε μια καλή λ<b>ύ</b>ση στο πρόβλημα.",
         "translation": "We found a good solution to the problem."
       },
       {
-        "greek": "Υπάρχει πάντα μια λύση αν ψάξεις καλά.",
+        "greek": "Υπάρχει πάντα μια λ<b>ύ</b>ση αν ψάξεις καλά.",
         "translation": "There is always a solution if you search well."
       },
       {
-        "greek": "Η λύση αυτή είναι πολύ απλή.",
+        "greek": "Η λ<b>ύ</b>ση αυτή είναι πολύ απλή.",
         "translation": "This solution is very simple."
       }
     ],
-    "notes": null,
+    "notes": "The highlighted letter 'υ' is pronounced as an 'ee' sound (as in 'see').",
     "image_path": "assets/images/188.png",
     "sound_path": "assets/sounds/188.mp3",
     "example_sound_paths": [
       "assets/sounds/188_1.mp3",
       "assets/sounds/188_2.mp3",
       "assets/sounds/188_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 189,
@@ -5637,30 +6777,37 @@
     "transliteration": "yialiá",
     "tags": [
       "home",
-      "basics"
+      "basics",
+      "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Πού είναι τα γυαλιά μου;",
+        "greek": "Πού είναι τα γ<b>υ</b>αλιά μου;",
         "translation": "Where are my glasses?"
       },
       {
-        "greek": "Φοράει πάντα γυαλιά ηλίου.",
+        "greek": "Φοράει πάντα γ<b>υ</b>αλιά ηλίου.",
         "translation": "He always wears sunglasses."
       },
       {
-        "greek": "Χρειάζομαι καινούργια γυαλιά οράσεως.",
+        "greek": "Χρειάζομαι καινούργια γ<b>υ</b>αλιά οράσεως.",
         "translation": "I need new prescription glasses."
       }
     ],
-    "notes": null,
+    "notes": "The highlighted letter 'υ' is pronounced as an 'ee' sound (as in 'see').",
     "image_path": "assets/images/189.png",
     "sound_path": "assets/sounds/189.mp3",
     "example_sound_paths": [
       "assets/sounds/189_1.mp3",
       "assets/sounds/189_2.mp3",
       "assets/sounds/189_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 190,
@@ -5674,30 +6821,38 @@
     "gender": "feminine",
     "transliteration": "eísodos",
     "tags": [
+      "home",
+      "places",
       "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Η <mark><b>εί</b>σοδος</mark> του κτιρίου είναι στην αριστερή πλευρά.",
+        "greek": "Η <b>εί</b>σοδος του κτιρίου είναι στην αριστερή πλευρά.",
         "translation": "The entrance to the building is on the left side."
       },
       {
-        "greek": "Πού είναι η κύρια <mark><b>εί</b>σοδος</mark> του ξενοδοχείου;",
+        "greek": "Πού είναι η κύρια <b>εί</b>σοδος του ξενοδοχείου;",
         "translation": "Where is the main entrance of the hotel?"
       },
       {
-        "greek": "Απαγορεύεται η <mark><b>εί</b>σοδος</mark> σε μη εξουσιοδοτημένα άτομα.",
+        "greek": "Απαγορεύεται η <b>εί</b>σοδος σε μη εξουσιοδοτημένα άτομα.",
         "translation": "Entry is forbidden to unauthorized persons."
       }
     ],
-    "notes": "ει reads as 'i', as ει is always pronounced 'i' in Modern Greek",
+    "notes": "The highlighted diphthong 'ει' is pronounced as an 'ee' sound (as in 'see').",
     "image_path": "assets/images/190.png",
     "sound_path": "assets/sounds/190.mp3",
     "example_sound_paths": [
       "assets/sounds/190_1.mp3",
       "assets/sounds/190_2.mp3",
       "assets/sounds/190_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 191,
@@ -5710,30 +6865,38 @@
     "gender": "feminine",
     "transliteration": "eiríni",
     "tags": [
+      "feelings",
+      "basics",
       "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Εύχομαι να υπάρχει <mark><b>ει</b>ρήνη</mark> σε όλο τον κόσμο.",
+        "greek": "Εύχομαι να υπάρχει <b>ει</b>ρήνη σε όλο τον κόσμο.",
         "translation": "I wish there was peace in the whole world."
       },
       {
-        "greek": "Η <mark><b>ει</b>ρήνη</mark> είναι πολύ σημαντική για την ευτυχία.",
+        "greek": "Η <b>ει</b>ρήνη είναι πολύ σημαντική για την ευτυχία.",
         "translation": "Peace is very important for happiness."
       },
       {
-        "greek": "Μετά την καταιγίδα, επικράτησε απόλυτη <mark><b>ει</b>ρήνη</mark>.",
+        "greek": "Μετά την καταιγίδα, επικράτησε απόλυτη <b>ει</b>ρήνη.",
         "translation": "After the storm, absolute peace prevailed."
       }
     ],
-    "notes": "ει reads as 'i', as ει is always pronounced 'i' in Modern Greek",
+    "notes": "The highlighted diphthong 'ει' is pronounced as an 'ee' sound (as in 'see').",
     "image_path": "assets/images/191.png",
     "sound_path": "assets/sounds/191.mp3",
     "example_sound_paths": [
       "assets/sounds/191_1.mp3",
       "assets/sounds/191_2.mp3",
       "assets/sounds/191_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 192,
@@ -5747,30 +6910,38 @@
     "gender": "neuter",
     "transliteration": "teíchos",
     "tags": [
+      "places",
+      "home",
       "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Το <mark>τ<b>εί</b>χος</mark> της πόλης είναι πολύ παλιό.",
+        "greek": "Το τ<b>εί</b>χος της πόλης είναι πολύ παλιό.",
         "translation": "The city wall is very old."
       },
       {
-        "greek": "Χτίζουν ένα νέο <mark>τ<b>εί</b>χος</mark> γύρω από τον κήπο.",
+        "greek": "Χτίζουν ένα νέο τ<b>εί</b>χος γύρω από τον κήπο.",
         "translation": "They are building a new wall around the garden."
       },
       {
-        "greek": "Τα αρχαία <mark>τ<b>εί</b>χη</mark> προστατεύουν την ακρόπολη.",
+        "greek": "Τα αρχαία τ<b>εί</b>χη προστατεύουν την ακρόπολη.",
         "translation": "The ancient walls protect the acropolis."
       }
     ],
-    "notes": "ει reads as 'i', as ει is always pronounced 'i' in Modern Greek",
-    "image_path": "assets/images/192.png",
+    "notes": "The highlighted diphthong 'ει' is pronounced as an 'ee' sound (as in 'see').",
+    "image_path": null,
     "sound_path": "assets/sounds/192.mp3",
     "example_sound_paths": [
       "assets/sounds/192_1.mp3",
       "assets/sounds/192_2.mp3",
       "assets/sounds/192_3.mp3"
-    ]
+    ],
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   },
   {
     "id": 193,
@@ -5783,161 +6954,37 @@
     "gender": "feminine",
     "transliteration": "anoixi",
     "tags": [
+      "nature",
+      "time",
       "pronunciation"
     ],
     "examples": [
       {
-        "greek": "Η <mark>άν<b>οι</b>ξη</mark> είναι η αγαπημένη μου εποχή.",
+        "greek": "Η άν<b>οι</b>ξη είναι η αγαπημένη μου εποχή.",
         "translation": "Spring is my favorite season."
       },
       {
-        "greek": "Την <mark>άν<b>οι</b>ξη</mark> ανθίζουν πολλά λουλούδια.",
+        "greek": "Την άν<b>οι</b>ξη ανθίζουν πολλά λουλούδια.",
         "translation": "In spring, many flowers bloom."
       },
       {
-        "greek": "Περιμένουμε την <mark>άν<b>οι</b>ξη</mark> με ανυπομονησία.",
+        "greek": "Περιμένουμε την άν<b>οι</b>ξη με ανυπομονησία.",
         "translation": "We are eagerly awaiting spring."
       }
     ],
-    "notes": "οι reads as 'i', as οι is always pronounced 'i' in Modern Greek",
+    "notes": "The highlighted diphthong 'οι' is pronounced as an 'ee' sound (as in 'see').",
     "image_path": "assets/images/193.png",
     "sound_path": "assets/sounds/193.mp3",
     "example_sound_paths": [
       "assets/sounds/193_1.mp3",
       "assets/sounds/193_2.mp3",
       "assets/sounds/193_3.mp3"
-    ]
-  },
-  {
-    "id": 194,
-    "greek_word": "ευρώ",
-    "article": "το",
-    "translation": [
-      "euro"
     ],
-    "part_of_speech": "noun",
-    "gender": "neuter",
-    "transliteration": "evró",
-    "tags": [
-      "pronunciation"
-    ],
-    "examples": [
-      {
-        "greek": "Θέλω να πληρώσω με <mark><b>ευ</b>ρώ</mark>.",
-        "translation": "I want to pay with euros."
-      },
-      {
-        "greek": "Έχω δέκα <mark><b>ευ</b>ρώ</mark> στην τσέπη μου.",
-        "translation": "I have ten euros in my pocket."
-      },
-      {
-        "greek": "Το <mark><b>ευ</b>ρώ</mark> είναι το νόμισμα της Ελλάδας.",
-        "translation": "The euro is the currency of Greece."
-      }
-    ],
-    "notes": "ευ reads as 'ev', as ευ is followed by ρ (vibrating), so υ becomes 'v'",
-    "image_path": "assets/images/194.png",
-    "sound_path": "assets/sounds/194.mp3",
-    "example_sound_paths": [
-      "assets/sounds/194_1.mp3",
-      "assets/sounds/194_2.mp3",
-      "assets/sounds/194_3.mp3"
-    ]
-  },
-  {
-    "id": 195,
-    "greek_word": "ντομάτα",
-    "article": "η",
-    "translation": [
-      "tomato"
-    ],
-    "part_of_speech": "noun",
-    "gender": "feminine",
-    "transliteration": "domáta",
-    "tags": [
-      "pronunciation"
-    ],
-    "examples": [
-      {
-        "greek": "Η <mark><b>ντ</b>ομάτα</mark> είναι κόκκινη.",
-        "translation": "The tomato is red."
-      },
-      {
-        "greek": "Θέλω μια <mark><b>ντ</b>ομάτα</mark> για τη σαλάτα.",
-        "translation": "I want a tomato for the salad."
-      },
-      {
-        "greek": "Οι <mark><b>ντ</b>ομάτες</mark> είναι φρέσκες.",
-        "translation": "The tomatoes are fresh."
-      }
-    ],
-    "notes": "ντ reads as 'd' at the start of a word",
-    "image_path": null,
-    "sound_path": null,
-    "example_sound_paths": []
-  },
-  {
-    "id": 196,
-    "greek_word": "γκαράζ",
-    "article": "το",
-    "translation": [
-      "garage"
-    ],
-    "part_of_speech": "noun",
-    "gender": "neuter",
-    "transliteration": "garáz",
-    "tags": [
-      "pronunciation"
-    ],
-    "examples": [
-      {
-        "greek": "Το <mark><b>γκ</b>αράζ</mark> είναι γεμάτο.",
-        "translation": "The garage is full."
-      },
-      {
-        "greek": "Πάρκαρε το αυτοκίνητο στο <mark><b>γκ</b>αράζ</mark>.",
-        "translation": "Park the car in the garage."
-      },
-      {
-        "greek": "Το <mark><b>γκ</b>αράζ</mark> χρειάζεται καθαρισμό.",
-        "translation": "The garage needs cleaning."
-      }
-    ],
-    "notes": "γκ reads as 'g' at the start of a word, 'ng' inside a word",
-    "image_path": null,
-    "sound_path": null,
-    "example_sound_paths": []
-  },
-  {
-    "id": 197,
-    "greek_word": "τζατζίκι",
-    "article": "το",
-    "translation": [
-      "tzatziki"
-    ],
-    "part_of_speech": "noun",
-    "gender": "neuter",
-    "transliteration": "dzadzíki",
-    "tags": [
-      "pronunciation"
-    ],
-    "examples": [
-      {
-        "greek": "Το <mark><b>τζ</b>α<b>τζ</b>ίκι</mark> είναι πολύ δροσερό.",
-        "translation": "Tzatziki is very refreshing."
-      },
-      {
-        "greek": "Θέλω λίγο <mark><b>τζ</b>α<b>τζ</b>ίκι</mark> με το κρέας.",
-        "translation": "I want some tzatziki with the meat."
-      },
-      {
-        "greek": "Το ελληνικό <mark><b>τζ</b>α<b>τζ</b>ίκι</mark> είναι το καλύτερο.",
-        "translation": "Greek tzatziki is the best."
-      }
-    ],
-    "notes": "τζ reads as 'dz'",
-    "image_path": null,
-    "sound_path": null,
-    "example_sound_paths": []
+    "learning_state": {
+      "next_review": "2026-04-04T08:41:12.916968Z",
+      "interval": 0,
+      "repetitions": 0,
+      "ease_factor": 2.5
+    }
   }
 ]
