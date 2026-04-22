@@ -3,79 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="web/styles.css">
     <title>Greek Dictionary</title>
 </head>
 <body>
 
-    <!-- Tag Filter Screen -->
-    <div class="filter-screen" id="filterScreen">
-        <div class="filter-content">
-            <h1 class="filter-title">Select Tags to Study</h1>
-            <div class="filter-tags" id="filterTags">
-                <!-- Tags will be populated by JavaScript -->
-            </div>
-            <button class="start-button" id="startStudyButton">Study Mode (Due Cards)</button>
-            <button class="start-button secondary" id="startBrowseButton">Browse All Words</button>
-        </div>
-    </div>
-
-    <!-- Study Mode Screen -->
-    <div class="study-mode" id="studyMode" style="display: none;">
-        <div class="study-card">
-            <!-- Front: Question -->
-            <div class="study-front" id="studyFront">
-                <h1 class="study-word" id="studyWord">Loading...</h1>
-                <button class="show-answer-btn" id="showAnswerBtn">Show Answer</button>
-                <div class="hint">Press Space or Enter</div>
-            </div>
-            
-            <!-- Back: Answer + Grading -->
-            <div class="study-back" id="studyBack" style="display: none;">
-                <div class="study-answer-layout">
-                    <div class="study-image-container" id="studyImageContainer" style="display: none;">
-                        <img class="study-image" id="studyImage" alt="Word illustration">
-                    </div>
-                    <div class="study-text-content">
-                        <h2 class="study-word-back" id="studyWordBack"></h2>
-                        <div class="study-transliteration" id="studyTransliteration"></div>
-                        <div class="study-translation" id="studyTranslation"></div>
-                        <div class="study-notes" id="studyNotes"></div>
-                        <div class="word-id" id="studyWordId"></div>
-                    </div>
-                </div>
-                
-                <div class="grade-buttons">
-                    <button class="grade-btn grade-again" data-grade="1">
-                        <span class="grade-number">1</span>
-                        <span class="grade-label">Again</span>
-                    </button>
-                    <button class="grade-btn grade-hard" data-grade="2">
-                        <span class="grade-number">2</span>
-                        <span class="grade-label">Hard</span>
-                    </button>
-                    <button class="grade-btn grade-good" data-grade="3">
-                        <span class="grade-number">3</span>
-                        <span class="grade-label">Good</span>
-                    </button>
-                    <button class="grade-btn grade-easy" data-grade="4">
-                        <span class="grade-number">4</span>
-                        <span class="grade-label">Easy</span>
-                    </button>
-                </div>
-            </div>
-        </div>
-        
-        <div class="study-progress">
-            <span id="studyProgress">0 / 0 cards</span>
-            <button class="study-exit-btn" id="studyExitBtn">← Back to Filter</button>
-        </div>
-    </div>
-
-    <div class="slide-container" id="presentation" style="display: none;">
+    <div class="slide-container" id="presentation">
         
         <div class="slide-front" id="slideFront">
             <h1 class="massive-word" id="frontWord">Loading...</h1>
@@ -97,8 +30,6 @@
                 <div id="examplesContainer">
                     </div>
                 
-                <div id="notesContainer" class="notes-container"></div>
-                
                 <div class="word-id" id="wordId"></div>
             </div>
         </div>
@@ -106,12 +37,10 @@
     </div>
 
     <div class="controls">
-        <button id="btnFilter">← Filter</button>
         <button id="btnPrev">← Prev</button>
         <button id="btnNext">Next →</button>
     </div>
 
-    <script src="web/srsAlgorithm.js"></script>
     <script src="web/app.js"></script>
 </body>
 </html>
